@@ -1,0 +1,78 @@
+Códigos de Modelos de Transformadores,,,
+FTM,,,
+Código,Modelo,Tipo,Tecnología
+"IFTM1
+TFTM1","CTAS-1
+CTY-24/U","Intensidad
+Tensión","Inductivo
+Inductivo"
+GENERAL ELECTRIC,,,
+Código,Modelo,Tipo,Tecnología
+"IGE4
+IGE5
+IGE6
+TGE5
+TGE1
+IGE1
+IGE2
+IGE3
+TGE4
+IGE7
+TGE6
+TGE3
+TGE2","BRP-60
+BRY-60
+DESCONOCIDO
+DESCONOCIDO
+DTC
+ISO-95/16
+JK-9
+JKS-3
+OAP-30
+T155-CT
+T155-VT3
+VNA 15/101
+WP245-N2","Intensidad
+Intensidad
+Intensidad
+Tensión
+Tensión
+Intensidad
+Intensidad
+Intensidad
+Tensión
+Intensidad
+Tensión
+Tensión
+Tensión","Inductivo
+Inductivo
+Inductivo
+Inductivo
+Capacitivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo
+Capacitivo"
+GENERAL ELECTRICA,,,
+Código,Modelo,Tipo,Tecnología
+IGEE1,BRY-60,Intensidad,Inductivo
+GOSSEN ESPAÑOLA,,,
+Código,Modelo,Tipo,Tecnología
+IGOS1,TJ-06,Intensidad,Inductivo
+HAEFELY -TRENCH,,,
+Código,Modelo,Tipo,Tecnología
+"THAE1
+THAE2
+THAE3","CVE-123
+MWB SVS4
+SU420/B4ST","Tensión
+Tensión
+Tensión","Capacitivo
+Inductivo
+Inductivo"
+,,,
+27 agosto 2025 10 de 20,,,

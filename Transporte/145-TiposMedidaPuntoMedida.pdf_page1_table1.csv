@@ -1,0 +1,37 @@
+Tipos de medida de Punto Medida
+"Código Descripción
+1 Lectura remota de configuración Principal
+2 Lectura local de configuración Principal procedente del OS
+3 Lectura local de configuración Principal procedente de Empresa
+4 Lectura remota de configuración Redundante
+6 Lectura remota de configuración Comprobante
+7 Lectura local de configuración Redundante procedente del OS
+9 Lectura local de configuración Comprobante procedente del OS
+10 Lectura local de configuración Redundante procedente de Empresa
+12 Lectura local de configuración Comprobante procedente de Empresa
+18 Estimación 3 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+19 Estimación 4 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+20 Estimación 5 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+21 Estimación 6 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+22 Estimación 7 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+23 Lectura remota para cálculo de medida individualizada por cil
+24 Lectura local para cálculo de medida individualizada por cil
+25 Estimación 9 Apdo. 3.6.2 (verificaciones o resolución de incidencias) procedente del OS
+para cálculo de medida individualizada por cil
+26 Lectura remota de configuración Principal con firma electrónica pendiente para cálculo de
+medida individualizada por cil
+27 Estimación 3 Apdo. 3.3.2 PO 10.5 procedente de Empresa para cálculo de medida
+individualizada por cil
+30 Lectura remota para cálculo de energía neta de producción en autoconsumo
+31 Lectura local para cálculo de energía neta de producción en autoconsumo
+35 Estimación 3 Apdo. 3.3.2 PO 10.5 procedente de Empresa para cálculo de energía neta
+de producción en autoconsumo
+36 Estimación 4 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Transitoria
+37 Estimación 9 Apdo. 3.6.2 (verificaciones o resolución de incidencias) procedente del OS
+para cálculo de energía neta de producción en autoconsumo
+38 Estimación 6 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Transitoria
+39 Lectura remota de configuración Principal con firma electrónica pendiente para cálculo de
+energía neta de producción en autoconsumo
+46 Estimación 5 Apdo. 3.3.2 PO 10.5 procedente del OS de configuración Principal
+47 Estimación 5 -próxima- Apdo. 3.3.2 PO 10.5 procedente del OS de configuración Principal"
+27 agosto 2025 1 de 3

@@ -1,0 +1,85 @@
+Código,Descripción,Aclaración,Código Fichero
+"000
+001
+002
+003
+004
+005
+100
+101
+102
+103
+104
+105
+999","El CIL no pertenece a este representante en el mes
+que se está liquidando
+Exceso de energía
+Estimación incorrecta
+Medida incompleta
+Incoherencia de datos
+Valor mensual erróneo
+Medida energía AE (kWh) del CIL incorrecta
+Medida energía AS (kWh) del CIL incorrecta
+Medida energía R1 (kVArh) de la agregación
+incorrecta
+Medida energía R2 (kVArh) del CIL incorrecta
+Medida energía R3 (kVArh) del CIL incorrecta
+Medida energía R4 (kVArh) del CIL incorrecta
+Otros","El CIL se está publicando y no pertenece a dicho
+representante en todo el mes que se está liquidando
+Aplicada mayor medida de la que corresponde
+Aplicada medida estimada errónea
+Huecos en la curva horaria
+Datos estructurales erróneos
+Acumulado mensual erróneo
+Se entiende que fecha inicio y fin de vigencia son
+correctas
+Se entiende que fecha inicio y fin de vigencia son
+correctas
+Se entiende que fecha inicio y fin de vigencia son
+correctas
+Se entiende que fecha inicio y fin de vigencia son
+correctas
+Se entiende que fecha inicio y fin de vigencia son
+correctas
+Se entiende que fecha inicio y fin de vigencia son
+correctas","CILDAT (bien
+pertenece a otro
+representante, bien
+ha pasado a MR o se
+ha dado de baja)
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH
+CILDAT, medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+medidas,
+MCIL345QH,
+MCIL345
+CILDAT, medidas,
+MCIL345QH,
+MCIL345"

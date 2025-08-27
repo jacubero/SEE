@@ -1,0 +1,52 @@
+Códigos de Modelos de Transformadores,,,
+CPFC&MI,,,
+Código,Modelo,Tipo,Tecnología
+"ICPF1
+ICPF2
+ICPF3
+ICPF4
+TCPF1
+TCPF2","127PS21
+J16SP118
+J35
+J36P
+U-36-M11
+UTD36N11","Intensidad
+Intensidad
+Intensidad
+Intensidad
+Tensión
+Tensión","Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo"
+E-WALTER,,,
+Código,Modelo,Tipo,Tecnología
+"IWAL02
+IWAL01","DESCONOCIDO
+ICH-16-50","Intensidad
+Intensidad","Inductivo
+Inductivo"
+ELECTR. KAINOS S.A.,,,
+Código,Modelo,Tipo,Tecnología
+IKAI1,TJ-112,Intensidad,Inductivo
+ELEQ,,,
+Código,Modelo,Tipo,Tecnología
+IELEQ01,CTS 4679,Intensidad,Inductivo
+ENGLISH ELECTRIC,,,
+Código,Modelo,Tipo,Tecnología
+"IEEC1
+TEEC1","FPC
+FSV","Intensidad
+Tensión","Inductivo
+Capacitivo"
+EPRO,,,
+Código,Modelo,Tipo,Tecnología
+JR05,"JR 0,5",Intensidad,Inductivo
+FAGET,,,
+Código,Modelo,Tipo,Tecnología
+IFAG01,216234,Intensidad,Inductivo
+,,,
+27 agosto 2025 9 de 20,,,

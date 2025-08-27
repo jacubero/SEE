@@ -1,0 +1,65 @@
+Motivos de objeción EdLD
+"Código Descripción Aclaración Código Fichero
+801 Duplicidad de puntos en INMECL INMECL (al
+representante o titular
+sin representante) o
+MAGCL, CLMAG
+850 Punto de medida desconectado con intercambio 0 Solo aplicable en preobjeciones AGRECL
+kWh
+999 Otros AGRECL, MAGCL,
+INMECL, CLMAG
+000 La agregación no pertenece a este representante en La agregación se está publicando y no pertenece a AGRERE (bien
+el mes que se está liquidando dicho representante en todo el mes que se está pertenece a otro
+liquidando representante, bien
+ha pasado a MR o se
+ha dado de baja)
+001 La agregación pertenece a este representante, desde La agregación no se ha publicado y pertenece a este AGRERE, MAGRE
+fecha ini objeción hasta fecha fin objeción, y sin representante en el rango indicado del mes que se (bien hay que darlo
+embargo no se ha publicado nada para el mes que se está liquidando de alta porque antes
+está liquidando estaba en MR o de
+baja, o bien se ha
+publicado a otro
+representante)
+002 Fecha inicio vigencia de la agregación incorrecta La agregación se está publicando y pertenece a este AGRERE, MAGRE
+representante en el mes que se está liquidando, pero (hay que corregir la
+la fecha de inicio de vigencia es incorrecta fecha inicio vigencia y
+quizás enviar medida,
+según el caso)
+003 Fecha fin vigencia de la agregación incorrecta La agregación se está publicando y pertenece a este AGRERE, MAGRE
+representante en el mes que se está liquidando, pero (hay que corregir la
+la fecha de fin de vigencia es incorrecta fecha fin vigencia y
+quizás enviar medida,
+según el caso)
+004 No son correctos los puntos frontera participantes en Bien faltan o bien sobran puntos AGRERE, MAGRE,
+esta agregación INMERE (puede ser
+necesario rectificar
+las fechas de inicio y
+fin de vigencia, así
+como las medidas,
+MCIL345QH)
+100 Medida energía AE (kWh) de la agregación incorrecta Se entiende que fecha inicio y fin de vigencia son MAGRE, INMERE
+correctas
+101 Medida energía AS (kWh) de la agregación incorrecta Se entiende que fecha inicio y fin de vigencia son MAGRE, INMERE
+correctas
+102 Medida energía R1 (kVArh) de la agregación Se entiende que fecha inicio y fin de vigencia son MAGRE, INMERE
+incorrecta correctas
+103 Medida energía R2 (kVArh) de la agregación Se entiende que fecha inicio y fin de vigencia son MAGRE, INMERE
+incorrecta correctas
+104 Medida energía R3 (kVArh) de la agregación Se entiende que fecha inicio y fin de vigencia son MAGRE, INMERE
+incorrecta correctas
+105 Medida energía R4 (kVArh) de la agregación Se entiende que fecha inicio y fin de vigencia son MAGRE, INMERE
+incorrecta correctas
+700 No se dispone de datos de esta agregación en el INMERE (al
+fichero INMERE representante o titular
+sin representante)
+800 Incoherencia INMERE - Agregación No cuadran los consumos INMERE (al
+representante o titular
+sin representante) o
+MAGRE
+801 Duplicidad de puntos en INMERE INMERE (al
+representante o titular
+sin representante) o
+MAGRE
+999 Otros AGRERE, MAGRE,
+INMERE"
+27 agosto 2025 3 de 4

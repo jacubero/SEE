@@ -1,0 +1,40 @@
+Códigos de Modelos de Transformadores,,,
+WATTSUD,,,
+Código,Modelo,Tipo,Tecnología
+"TT00018
+TT00019","EPR20Z
+EPR30Z","Tensión
+Tensión","Inductivo
+Inductivo"
+"WESTINGHOUSE, S.A.",,,
+Código,Modelo,Tipo,Tecnología
+"TWES1
+IWES1
+IWES2
+IWES3
+IWES4
+TWES2","6R2809
+BY
+DESCONOCIDO
+DZ15R08
+DZB5N05
+PT","Tensión
+Intensidad
+Intensidad
+Intensidad
+Intensidad
+Tensión","Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo"
+"En caso de que el equipo a codificar no se encuentre en este informe, por favor envíe un correo electrónico a la dirección
+simel@ree.es con asunto: Alta de nuevo modelo de transformador de medida e indicando los siguientes datos del nuevo modelo:
+- Fabricante
+- Tipo (intensidad / Tensión)
+- Tecnología ( Capacitivo / Inductivo )
+- Descripción modelo
+- Tipo de aislamiento (papel/aceite/otros)
+- Copia de Resolución de autorización de uso emitido por autoridad competente",,,
+27 agosto 2025 20 de 20,,,

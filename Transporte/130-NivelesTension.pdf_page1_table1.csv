@@ -1,0 +1,37 @@
+Códigos de Niveles de Tensión,,,,
+,,,,
+Código,Descripción,Fecha Alta,Estado,
+"E0
+E1
+E2
+E3
+E4
+E5
+E6","Baja tensión
+>= 1 kV y < 14 kV
+>= 14 kV y < 36 kV
+>= 36 kV y < 72.5 kV
+>= 72.5 kV y < 145 kV
+>= 145 kV y < 220 kV
+>= 220 kV","01/01/2000
+01/01/2000
+01/01/2000
+01/01/2000
+01/01/2000
+01/01/2000
+01/01/2000","Baja VaI:G0E1/N0T1/E3000
+Baja VaI:G0E1/N0T1/E3000
+Baja VaI:G0E1/N0T1/E3000
+Baja VaI:G0E1/N0T1/E3000
+Baja VaI:G0E1/N0T1/E3000
+Baja VaI:G0E1/N0T1/E3000
+Baja VaI:G0E1/N0T1/E3000",
+,,,,Baja VaI:G0E1/N0T1/E3000
+,,,,Baja VaI:G0E1/N0T1/E3000
+,,,,Baja VaI:G0E1/N0T1/E3000
+,,,,Baja VaI:G0E1/N0T1/E3000
+,,,,Baja VaI:G0E1/N0T1/E3000
+,,,,Baja VaI:G0E1/N0T1/E3000
+,,,,Baja VaI:G0E1/N0T1/E3000
+,,,,
+26 agosto 2025 1 de 1,,,,

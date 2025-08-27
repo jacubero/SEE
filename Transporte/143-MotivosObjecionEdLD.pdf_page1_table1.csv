@@ -1,0 +1,54 @@
+Motivos de objeción EdLD
+"Código Descripción Aclaración Código Fichero
+000 El punto no pertenece a esta comercializadora en el El CUPS22 se está publicando y no pertenece a CUPS, CUPSDAT,
+mes que se está liquidando dicha comercializadora en todo el mes que se está F1 (Bien pertenece a
+liquidando otra
+comercializadora,
+bien ha pasado a MR
+o se ha dado de baja)
+001 El punto pertenece a esta comercializadora, desde El CUPS22 no se ha publicado y pertenece a esta CUPS, CUPSDAT,
+fecha ini objeción hasta fecha fin objeción, y sin comercializadora en el rango indicado del mes que F1 (Bien hay que
+embargo no se ha publicado nada para el mes que se se está liquidando darlo de alta porque
+está liquidando antes estaba en MR
+o de baja, o bien se
+ha publicado a otra
+comercializadora)
+002 Fecha inicio vigencia incorrecta El CUPS22 se está publicando y pertenece a esta CUPS, CUPSDAT,
+comercializadora en el mes que se está liquidando, F1 (Hay que corregir
+pero la fecha de inicio de vigencia es incorrecta la fecha inicio
+vigencia y quizás
+enviar medida, según
+el caso)
+003 Fecha fin vigencia incorrecta El CUPS22 se está publicando y pertenece a esta CUPS, CUPSDAT,
+comercializadora en el mes que se está liquidando, F1 (Hay que corregir
+pero la fecha de fin de vigencia es incorrecta la fecha fin vigencia y
+quizás enviar medida,
+según el caso)
+100 Medida energía AE (kWh) incorrecta Se entiende que fecha inicio y fin de vigencia son F1
+correctas
+101 Medida energía AS (kWh) incorrecta Se entiende que fecha inicio y fin de vigencia son F1
+correctas
+102 Medida energía R1 (kVArh) incorrecta Se entiende que fecha inicio y fin de vigencia son F1
+correctas
+103 Medida energía R2 (kVArh) incorrecta Se entiende que fecha inicio y fin de vigencia son F1
+correctas
+104 Medida energía R3 (kVArh) incorrecta Se entiende que fecha inicio y fin de vigencia son F1
+correctas
+105 Medida energía R4 (kVArh) incorrecta Se entiende que fecha inicio y fin de vigencia son F1
+correctas
+106 Perfil incorrecto Se entiende que el consumo si es correcto F1
+107 No necesita perfil Debería aplicar curva y aplicó perfil F1
+200 Descripción incorrecta CUPS, CUPSDAT
+201 CIF incorrecto CUPS, CUPSDAT
+202 Distribuidora incorrecta CUPS, CUPSDAT
+203 Tipo de punto incorrecto CUPS, CUPSDAT
+204 Tensión incorrecta CUPS, CUPSDAT
+205 Tarifa incorrecta CUPS, CUPSDAT
+206 DH incorrecta CUPS, CUPSDAT
+207 Provincia incorrecta CUPS, CUPSDAT
+208 Código subsistema incorrecto CUPS, CUPSDAT
+850 Punto de medida desconectado con intercambio 0 Solo aplicable en preobjeciones (CUPS tipo 1 CUPS, CUPSDAT,
+kWh potestativos) F1
+999 Otros CUPS, CUPSDAT,
+F1"
+27 agosto 2025 1 de 4

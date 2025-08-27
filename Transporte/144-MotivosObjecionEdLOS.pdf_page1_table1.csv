@@ -1,0 +1,17 @@
+Motivos de objeción
+"Código Descripción Aclaración Código Fichero
+01 Exceso de energía Aplicada mayor medida de la que corresponde PMEST, P1REG
+02 Estimación incorrecta Aplicada medida estimada errónea PMEST, P1REG
+03 Medida incompleta Huecos en la curva horaria PMEST, P1REG
+04 Sentido de energía incorrecto Aplicada medida en magnitud incorrecta PMEST, P1REG
+05 Incoherencia de datos Datos estructurales erróneos PFRON, PMEST,
+P1REG
+06 Diferencia contra redundante La medida difiere de la redundante aplicada PMEST, P1REG
+07 Diferencia contra comprobante La medida difiere de la comprobante aplicada PMEST, P1REG
+08 Diferencia contra cierre de nudos La medida difiere de la del nudo de cabecera PMEST, P1REG
+09 Valor mensual erróneo Acumulado mensual erróneo PMEST, P1REG
+10 Bit de calidad La medida inválida es correcta PMEST, P1REG
+11 Variaciones de valor Medida aplicada errónea PMEST, P1REG
+12 Error en la fecha de vigencia de la frontera La fecha de inicio de vigencia o la fecha de fin de PFRON, PMEST,
+vigencia es incorrecta P1REG"
+27 agosto 2025 1 de 1

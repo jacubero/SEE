@@ -1,0 +1,66 @@
+Código,Descripción
+"1
+2
+3
+4
+5
+7
+8
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31","Lectura remota de configuración Principal
+Lectura local de configuración Principal procedente del OS
+Lectura local de configuración Principal procedente de Empresa
+Lectura remota de configuración Redundante
+Combinación de lecturas remotas de configuración Comprobante
+Lectura local de configuración Redundante procedente del OS
+Combinación de lecturas locales de configuración Comprobante procedente del OS
+Lectura local de configuración Redundante procedente de Empresa
+Combinación de lecturas locales de configuración Comprobante procedente de Empresa
+Estimación 3 Apdo. 3.3.2 PO 10.5 con Modulación procedente de Empresa de
+configuración Principal
+Estimación 4 Apdo. 3.3.2 PO 10.5 con Modulación procedente de Empresa de
+configuración Principal
+Estimación 5 Apdo. 3.3.2 PO 10.5 con Modulación procedente de Empresa de
+configuración Principal
+Estimación 6 Apdo. 3.3.2 PO 10.5 con Modulación procedente de Empresa de
+configuración Principal
+Estimación 7 Apdo. 3.3.2 PO 10.5 con Modulación procedente de Empresa de
+configuración Principal
+Estimación 3 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+Estimación 4 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+Estimación 5 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+Estimación 6 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+Estimación 7 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración Principal
+Lectura remota para cálculo de medida individualizada por cil
+Lectura local para cálculo de medida individualizada por cil
+Estimación 9 Apdo. 3.6.2 (verificaciones o resolución de incidencias) procedente del OS
+para cálculo de medida individualizada por cil
+Lectura remota de configuración Principal con firma electrónica pendiente para cálculo de
+medida individualizada por cil
+Estimación 3 Apdo. 3.3.2 PO 10.5 procedente de Empresa para cálculo de medida
+individualizada por cil
+Combinación estimaciones 3, 4, 5, 6, 7, sin origen o desconocida Apdo. 3.3.2 PO 10.5
+con Modulación procedente de Empresa de configuración Transitori
+Combinación estimación 3 Apdo. 3.3.2 PO 10.5 procedente de Empresa de configuración
+Transitoria
+Lectura remota para cálculo de energía neta de producción en autoconsumo
+Lectura local para cálculo de energía neta de producción en autoconsumo"

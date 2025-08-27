@@ -1,0 +1,75 @@
+Códigos de Modelos de Transformadores,,,
+ABB SUBEST. S.A.,,,
+Código,Modelo,Tipo,Tecnología
+"IABB4
+IABB1
+IABB2
+IABB3
+TABB5","ASG
+IMBD-145
+IMBD-245
+TAT
+VEG 36","Intensidad
+Intensidad
+Intensidad
+Intensidad
+Tensión","Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo"
+"AEG, S.A.",,,
+Código,Modelo,Tipo,Tecnología
+"TAEG1
+IAEG2
+IAEG3
+IAEG1","EY52WI
+VIS 525
+VIS-WI
+VIS1830","Tensión
+Intensidad
+Intensidad
+Intensidad","Inductivo
+Inductivo
+Inductivo
+Inductivo"
+ALSTHOM,,,
+Código,Modelo,Tipo,Tecnología
+"IALS3
+IALS2
+IALS4
+IALS1
+TALS2
+TALS1","IALS-11kw
+IPM/370
+ORG24
+PF12D2
+UDP245
+UKM24/3","Intensidad
+Intensidad
+Intensidad
+Intensidad
+Tensión
+Tensión","Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo
+Inductivo"
+AREVA,,,
+Código,Modelo,Tipo,Tecnología
+"IARE01
+IARE04
+TARE03
+TARE02","F35-2CT
+F35-CT3
+F35VT
+SUD-145","Intensidad
+Intensidad
+Tensión
+Tensión","Inductivo
+Inductivo
+Inductivo
+Inductivo"
+,,,
+27 agosto 2025 1 de 20,,,
