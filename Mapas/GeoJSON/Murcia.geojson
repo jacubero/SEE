@@ -1,0 +1,5273 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-09-23T15:47:04Z",
+    "timestamp_areas_base": "2025-09-23T09:57:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1948816994,
+  "lat": 38.0962684,
+  "lon": -1.1634077,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 5619318505,
+  "lat": 37.8456544,
+  "lon": -0.7955629,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 5619327705,
+  "lat": 37.8470277,
+  "lon": -0.8046497,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 8922954391,
+  "lat": 38.2693730,
+  "lon": -1.3879413,
+  "tags": {
+    "building": "yes",
+    "name": "Subestación Eléctrica Sierra De Ascoy",
+    "operator": "Elecdey",
+    "power": "substation",
+    "substation": "transformer"
+  }
+},
+{
+  "type": "way",
+  "id": 48960440,
+  "bounds": {
+    "minlat": 37.6136771,
+    "minlon": -0.9949178,
+    "maxlat": 37.6143427,
+    "maxlon": -0.9943387
+  },
+  "nodes": [
+    621197242,
+    3337807299,
+    3337805407,
+    621197245,
+    7254909881,
+    621197243,
+    3699186601,
+    621197242
+  ],
+  "geometry": [
+    { "lat": 37.6137705, "lon": -0.9943387 },
+    { "lat": 37.6136771, "lon": -0.9946425 },
+    { "lat": 37.6142403, "lon": -0.9949178 },
+    { "lat": 37.6142857, "lon": -0.9948914 },
+    { "lat": 37.6143178, "lon": -0.9947404 },
+    { "lat": 37.6143427, "lon": -0.9946230 },
+    { "lat": 37.6140167, "lon": -0.9944610 },
+    { "lat": 37.6137705, "lon": -0.9943387 }
+  ],
+  "tags": {
+    "architect": "Francisco de Paula de Oliver Rolandi",
+    "bic:inscription_date": "1994-03-03",
+    "building": "industrial",
+    "heritage": "2",
+    "heritage:operator": "mecd",
+    "heritage:website": "https://www.culturaydeporte.gob.es/cultura/patrimonio/bienes-culturales-protegidos.html",
+    "historic": "industrial",
+    "loc_name": "Fábrica de la Luz",
+    "name": "Subestación San Antón",
+    "old_name": "Fábrica de Fluido Eléctrico Hispania",
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "power": "substation",
+    "protection_title": "Bien de Interés Cultural",
+    "protection_title:category": "Monumento",
+    "ref:bic": "RI-51-0008705",
+    "start_date": "1900",
+    "substation": "distribution",
+    "voltage": "132000;20000;11000",
+    "wikidata": "Q13500873",
+    "wikimedia_commons": "Category:Fábrica de Fluido Eléctrico Hispania",
+    "wikipedia": "es:Fábrica de Fluido Eléctrico Hispania"
+  }
+},
+{
+  "type": "way",
+  "id": 107672070,
+  "bounds": {
+    "minlat": 37.9342907,
+    "minlon": -1.1862122,
+    "maxlat": 37.9365580,
+    "maxlon": -1.1841056
+  },
+  "nodes": [
+    1237001652,
+    1237001644,
+    2463089706,
+    1237001656,
+    7209568114,
+    1237001654,
+    1237001652
+  ],
+  "geometry": [
+    { "lat": 37.9361011, "lon": -1.1862122 },
+    { "lat": 37.9342907, "lon": -1.1855687 },
+    { "lat": 37.9344594, "lon": -1.1848218 },
+    { "lat": 37.9346211, "lon": -1.1841056 },
+    { "lat": 37.9359378, "lon": -1.1845458 },
+    { "lat": 37.9365580, "lon": -1.1847531 },
+    { "lat": 37.9361011, "lon": -1.1862122 }
+  ],
+  "tags": {
+    "location": "outdoor",
+    "name": "Subestación El Palmar",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "220000;132000;66000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 112327293,
+  "bounds": {
+    "minlat": 37.9749070,
+    "minlon": -1.1358846,
+    "maxlat": 37.9749341,
+    "maxlon": -1.1358197
+  },
+  "nodes": [
+    1277066500,
+    1277066842,
+    1277066912,
+    1277066898,
+    1277066500
+  ],
+  "geometry": [
+    { "lat": 37.9749341, "lon": -1.1358835 },
+    { "lat": 37.9749087, "lon": -1.1358846 },
+    { "lat": 37.9749070, "lon": -1.1358208 },
+    { "lat": 37.9749324, "lon": -1.1358197 },
+    { "lat": 37.9749341, "lon": -1.1358835 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 112327346,
+  "bounds": {
+    "minlat": 37.9723420,
+    "minlon": -1.1373152,
+    "maxlat": 37.9724068,
+    "maxlon": -1.1372447
+  },
+  "nodes": [
+    1277066889,
+    1277066785,
+    1277066868,
+    1277066700,
+    1277066889
+  ],
+  "geometry": [
+    { "lat": 37.9723573, "lon": -1.1373152 },
+    { "lat": 37.9723420, "lon": -1.1372828 },
+    { "lat": 37.9723922, "lon": -1.1372447 },
+    { "lat": 37.9724068, "lon": -1.1372756 },
+    { "lat": 37.9723573, "lon": -1.1373152 }
+  ],
+  "tags": {
+    "power": "substation",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 113716457,
+  "bounds": {
+    "minlat": 37.9678506,
+    "minlon": -1.1334120,
+    "maxlat": 37.9678945,
+    "maxlon": -1.1333324
+  },
+  "nodes": [
+    1289161682,
+    1289161129,
+    1289161525,
+    1289161058,
+    1289161682
+  ],
+  "geometry": [
+    { "lat": 37.9678792, "lon": -1.1334120 },
+    { "lat": 37.9678506, "lon": -1.1334019 },
+    { "lat": 37.9678659, "lon": -1.1333324 },
+    { "lat": 37.9678945, "lon": -1.1333425 },
+    { "lat": 37.9678792, "lon": -1.1334120 }
+  ],
+  "tags": {
+    "power": "substation",
+    "source": "survey",
+    "source:date": "20110508"
+  }
+},
+{
+  "type": "way",
+  "id": 113716505,
+  "bounds": {
+    "minlat": 37.9721754,
+    "minlon": -1.1295426,
+    "maxlat": 37.9722200,
+    "maxlon": -1.1294550
+  },
+  "nodes": [
+    1289161553,
+    1289161069,
+    1289161409,
+    1289160991,
+    1289161553
+  ],
+  "geometry": [
+    { "lat": 37.9722056, "lon": -1.1295426 },
+    { "lat": 37.9721754, "lon": -1.1295337 },
+    { "lat": 37.9721898, "lon": -1.1294550 },
+    { "lat": 37.9722200, "lon": -1.1294638 },
+    { "lat": 37.9722056, "lon": -1.1295426 }
+  ],
+  "tags": {
+    "power": "substation",
+    "source": "survey",
+    "source:date": "20110508"
+  }
+},
+{
+  "type": "way",
+  "id": 128873801,
+  "bounds": {
+    "minlat": 37.7408600,
+    "minlon": -0.8750519,
+    "maxlat": 37.7424271,
+    "maxlon": -0.8740777
+  },
+  "nodes": [
+    1422938240,
+    1422938248,
+    1422938237,
+    1422938236,
+    1422938215,
+    565542540,
+    1422938214,
+    1422938240
+  ],
+  "geometry": [
+    { "lat": 37.7424086, "lon": -0.8750519 },
+    { "lat": 37.7424271, "lon": -0.8741176 },
+    { "lat": 37.7420958, "lon": -0.8740910 },
+    { "lat": 37.7420879, "lon": -0.8741243 },
+    { "lat": 37.7408810, "lon": -0.8740777 },
+    { "lat": 37.7408612, "lon": -0.8749524 },
+    { "lat": 37.7408600, "lon": -0.8750054 },
+    { "lat": 37.7424086, "lon": -0.8750519 }
+  ],
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Hoyamorena",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "220000;66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 129441519,
+  "bounds": {
+    "minlat": 37.9396293,
+    "minlon": -1.1893245,
+    "maxlat": 37.9418614,
+    "maxlon": -1.1866919
+  },
+  "nodes": [
+    1428145565,
+    1428145562,
+    1428151129,
+    1428145561,
+    1583871144,
+    1428145563,
+    1428145564,
+    1583871152,
+    1428145565
+  ],
+  "geometry": [
+    { "lat": 37.9418080, "lon": -1.1873342 },
+    { "lat": 37.9399510, "lon": -1.1866919 },
+    { "lat": 37.9397038, "lon": -1.1878649 },
+    { "lat": 37.9396293, "lon": -1.1878716 },
+    { "lat": 37.9396314, "lon": -1.1881717 },
+    { "lat": 37.9399443, "lon": -1.1888245 },
+    { "lat": 37.9414357, "lon": -1.1893245 },
+    { "lat": 37.9418614, "lon": -1.1874516 },
+    { "lat": 37.9418080, "lon": -1.1873342 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación El Palmar",
+    "operator": "Red Eléctrica de España",
+    "operator:short": "REE",
+    "operator:wikidata": "Q1551220",
+    "operator:wikipedia": "es:Red Eléctrica de España",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000"
+  }
+},
+{
+  "type": "way",
+  "id": 133150629,
+  "bounds": {
+    "minlat": 37.6220765,
+    "minlon": -0.9944318,
+    "maxlat": 37.6221276,
+    "maxlon": -0.9943641
+  },
+  "nodes": [
+    1465071102,
+    1465071101,
+    1465071098,
+    1465071100,
+    1465071102
+  ],
+  "geometry": [
+    { "lat": 37.6221276, "lon": -0.9943781 },
+    { "lat": 37.6221156, "lon": -0.9944318 },
+    { "lat": 37.6220765, "lon": -0.9944178 },
+    { "lat": 37.6220886, "lon": -0.9943641 },
+    { "lat": 37.6221276, "lon": -0.9943781 }
+  ],
+  "tags": {
+    "building": "yes",
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "operator:wikipedia": "es:Iberdrola",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 144909709,
+  "bounds": {
+    "minlat": 37.7643910,
+    "minlon": -1.4477012,
+    "maxlat": 37.7668925,
+    "maxlon": -1.4437601
+  },
+  "nodes": [
+    1583917045,
+    1583917051,
+    1583917065,
+    1583917056,
+    1583917057,
+    1583917054,
+    1583917055,
+    1583917053,
+    1583917035,
+    1583917036,
+    1583917043,
+    1583917047,
+    1583917045
+  ],
+  "geometry": [
+    { "lat": 37.7647615, "lon": -1.4449358 },
+    { "lat": 37.7652884, "lon": -1.4437601 },
+    { "lat": 37.7668925, "lon": -1.4448857 },
+    { "lat": 37.7661560, "lon": -1.4465585 },
+    { "lat": 37.7662707, "lon": -1.4466439 },
+    { "lat": 37.7659165, "lon": -1.4474054 },
+    { "lat": 37.7659213, "lon": -1.4476680 },
+    { "lat": 37.7658927, "lon": -1.4477012 },
+    { "lat": 37.7643910, "lon": -1.4466459 },
+    { "lat": 37.7644619, "lon": -1.4461849 },
+    { "lat": 37.7647589, "lon": -1.4455829 },
+    { "lat": 37.7649411, "lon": -1.4457067 },
+    { "lat": 37.7647615, "lon": -1.4449358 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Totana",
+    "operator": "Red Eléctrica de España",
+    "operator:short": "REE",
+    "operator:wikidata": "Q1551220",
+    "operator:wikipedia": "es:Red Eléctrica de España",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000;132000"
+  }
+},
+{
+  "type": "way",
+  "id": 144909723,
+  "bounds": {
+    "minlat": 37.6324593,
+    "minlon": -0.9621917,
+    "maxlat": 37.6343536,
+    "maxlon": -0.9599693
+  },
+  "nodes": [
+    1583916978,
+    1583916983,
+    1583916982,
+    1583916985,
+    1583916986,
+    1583916980,
+    1583916979,
+    1583916978
+  ],
+  "geometry": [
+    { "lat": 37.6324593, "lon": -0.9604371 },
+    { "lat": 37.6330570, "lon": -0.9602695 },
+    { "lat": 37.6330426, "lon": -0.9601835 },
+    { "lat": 37.6340815, "lon": -0.9599693 },
+    { "lat": 37.6343536, "lon": -0.9618243 },
+    { "lat": 37.6327579, "lon": -0.9621917 },
+    { "lat": 37.6327105, "lon": -0.9621437 },
+    { "lat": 37.6324593, "lon": -0.9604371 }
+  ],
+  "tags": {
+    "location": "outdoor",
+    "name": "Subestación La Asomada",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000;132000;66000;36000;33000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 144915428,
+  "bounds": {
+    "minlat": 37.5637405,
+    "minlon": -0.9561435,
+    "maxlat": 37.5647862,
+    "maxlon": -0.9539111
+  },
+  "nodes": [
+    1583974669,
+    1583974629,
+    1583974622,
+    1583974625,
+    1583974653,
+    1583974678,
+    1583974675,
+    1583974669
+  ],
+  "geometry": [
+    { "lat": 37.5641942, "lon": -0.9561435 },
+    { "lat": 37.5638811, "lon": -0.9559514 },
+    { "lat": 37.5637405, "lon": -0.9556650 },
+    { "lat": 37.5638601, "lon": -0.9553571 },
+    { "lat": 37.5641784, "lon": -0.9539111 },
+    { "lat": 37.5647862, "lon": -0.9542643 },
+    { "lat": 37.5647383, "lon": -0.9545843 },
+    { "lat": 37.5641942, "lon": -0.9561435 }
+  ],
+  "tags": {
+    "name": "Subestación Escombreras",
+    "operator": "Red Eléctrica de España",
+    "operator:short": "REE",
+    "operator:wikidata": "Q1551220",
+    "operator:wikipedia": "es:Red Eléctrica de España",
+    "power": "substation",
+    "voltage": "400000;220000;132000;66000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 144915438,
+  "bounds": {
+    "minlat": 37.5718832,
+    "minlon": -0.9426624,
+    "maxlat": 37.5737247,
+    "maxlon": -0.9405640
+  },
+  "nodes": [
+    1583974859,
+    1583974866,
+    1583974821,
+    1583974812,
+    1583974810,
+    1583974818,
+    1583974844,
+    1583974848,
+    1583974850,
+    1583974859
+  ],
+  "geometry": [
+    { "lat": 37.5735189, "lon": -0.9425654 },
+    { "lat": 37.5737247, "lon": -0.9408478 },
+    { "lat": 37.5720977, "lon": -0.9405640 },
+    { "lat": 37.5719001, "lon": -0.9422163 },
+    { "lat": 37.5718832, "lon": -0.9422654 },
+    { "lat": 37.5719526, "lon": -0.9425834 },
+    { "lat": 37.5723840, "lon": -0.9426624 },
+    { "lat": 37.5724686, "lon": -0.9426027 },
+    { "lat": 37.5724999, "lon": -0.9423697 },
+    { "lat": 37.5735189, "lon": -0.9425654 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Nueva Escombreras",
+    "operator": "Red Eléctrica de España",
+    "operator:short": "REE",
+    "operator:wikidata": "Q1551220",
+    "operator:wikipedia": "es:Red Eléctrica de España",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000"
+  }
+},
+{
+  "type": "way",
+  "id": 144922719,
+  "bounds": {
+    "minlat": 37.8584896,
+    "minlon": -0.8159274,
+    "maxlat": 37.8600303,
+    "maxlon": -0.8140009
+  },
+  "nodes": [
+    1584032379,
+    1584032401,
+    1584032403,
+    1584032398,
+    1584032381,
+    2686672520,
+    2686672567,
+    2686672517,
+    2686672540,
+    2686672541,
+    2686672518,
+    1584032379
+  ],
+  "geometry": [
+    { "lat": 37.8588343, "lon": -0.8148029 },
+    { "lat": 37.8596123, "lon": -0.8140009 },
+    { "lat": 37.8600303, "lon": -0.8148886 },
+    { "lat": 37.8589532, "lon": -0.8159274 },
+    { "lat": 37.8586901, "lon": -0.8159203 },
+    { "lat": 37.8585882, "lon": -0.8153826 },
+    { "lat": 37.8585538, "lon": -0.8153814 },
+    { "lat": 37.8584896, "lon": -0.8150684 },
+    { "lat": 37.8585072, "lon": -0.8150043 },
+    { "lat": 37.8585839, "lon": -0.8149178 },
+    { "lat": 37.8587954, "lon": -0.8147417 },
+    { "lat": 37.8588343, "lon": -0.8148029 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación San Pedro del Pinatar",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "220000;66000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 148961316,
+  "bounds": {
+    "minlat": 37.8420341,
+    "minlon": -1.1455225,
+    "maxlat": 37.8433807,
+    "maxlon": -1.1438228
+  },
+  "nodes": [
+    1620159512,
+    7249957808,
+    1620159505,
+    1620159498,
+    7249957809,
+    1620159508,
+    7249957807,
+    1620159523,
+    1620159512
+  ],
+  "geometry": [
+    { "lat": 37.8428888, "lon": -1.1455225 },
+    { "lat": 37.8427452, "lon": -1.1454883 },
+    { "lat": 37.8425500, "lon": -1.1453201 },
+    { "lat": 37.8420341, "lon": -1.1446281 },
+    { "lat": 37.8421289, "lon": -1.1444181 },
+    { "lat": 37.8426959, "lon": -1.1438228 },
+    { "lat": 37.8433807, "lon": -1.1448231 },
+    { "lat": 37.8433601, "lon": -1.1449355 },
+    { "lat": 37.8428888, "lon": -1.1455225 }
+  ],
+  "tags": {
+    "name": "Subestación Corvera",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 156038856,
+  "bounds": {
+    "minlat": 37.9845013,
+    "minlon": -1.1069910,
+    "maxlat": 37.9847436,
+    "maxlon": -1.1066355
+  },
+  "nodes": [
+    1683487919,
+    7249902888,
+    1683487898,
+    1683487914,
+    1683487922,
+    1683487919
+  ],
+  "geometry": [
+    { "lat": 37.9846762, "lon": -1.1069910 },
+    { "lat": 37.9845858, "lon": -1.1069523 },
+    { "lat": 37.9845013, "lon": -1.1069161 },
+    { "lat": 37.9845687, "lon": -1.1066355 },
+    { "lat": 37.9847436, "lon": -1.1067050 },
+    { "lat": 37.9846762, "lon": -1.1069910 }
+  ],
+  "tags": {
+    "building": "yes",
+    "location": "indoor",
+    "name": "Subestación Parque de Levante",
+    "not:operator:wikidata": "Q1437502",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;200000"
+  }
+},
+{
+  "type": "way",
+  "id": 164046037,
+  "bounds": {
+    "minlat": 37.4108112,
+    "minlon": -1.5934410,
+    "maxlat": 37.4116037,
+    "maxlon": -1.5925907
+  },
+  "nodes": [
+    1757067255,
+    1757067281,
+    1757067246,
+    1757067262,
+    1757067216,
+    1757067187,
+    1757067255
+  ],
+  "geometry": [
+    { "lat": 37.4116037, "lon": -1.5929904 },
+    { "lat": 37.4114077, "lon": -1.5926953 },
+    { "lat": 37.4113161, "lon": -1.5926283 },
+    { "lat": 37.4110072, "lon": -1.5925907 },
+    { "lat": 37.4108112, "lon": -1.5926148 },
+    { "lat": 37.4110818, "lon": -1.5934410 },
+    { "lat": 37.4116037, "lon": -1.5929904 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 193713162,
+  "bounds": {
+    "minlat": 37.7508758,
+    "minlon": -1.7036566,
+    "maxlat": 37.7513506,
+    "maxlon": -1.7030535
+  },
+  "nodes": [
+    2042313682,
+    2042313749,
+    2042313864,
+    2042313776,
+    2042313682
+  ],
+  "geometry": [
+    { "lat": 37.7513506, "lon": -1.7036526 },
+    { "lat": 37.7513474, "lon": -1.7030535 },
+    { "lat": 37.7508758, "lon": -1.7030575 },
+    { "lat": 37.7508790, "lon": -1.7036566 },
+    { "lat": 37.7513506, "lon": -1.7036526 }
+  ],
+  "tags": {
+    "name": "Subestación Torrealvilla",
+    "power": "substation",
+    "substation": "generation",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 193793262,
+  "bounds": {
+    "minlat": 38.0159048,
+    "minlon": -1.1587251,
+    "maxlat": 38.0174083,
+    "maxlon": -1.1568553
+  },
+  "nodes": [
+    2043050697,
+    2043050695,
+    2043050694,
+    2043050693,
+    2460204238,
+    2460204228,
+    2043050692,
+    2460204214,
+    7249980123,
+    2043050696,
+    7235843115,
+    2043050697
+  ],
+  "geometry": [
+    { "lat": 38.0174083, "lon": -1.1573052 },
+    { "lat": 38.0167798, "lon": -1.1568658 },
+    { "lat": 38.0167050, "lon": -1.1570310 },
+    { "lat": 38.0164503, "lon": -1.1568553 },
+    { "lat": 38.0164450, "lon": -1.1568673 },
+    { "lat": 38.0163448, "lon": -1.1570959 },
+    { "lat": 38.0159048, "lon": -1.1580995 },
+    { "lat": 38.0162084, "lon": -1.1583125 },
+    { "lat": 38.0166101, "lon": -1.1585944 },
+    { "lat": 38.0167964, "lon": -1.1587251 },
+    { "lat": 38.0170161, "lon": -1.1582151 },
+    { "lat": 38.0174083, "lon": -1.1573052 }
+  ],
+  "tags": {
+    "location": "outdoor",
+    "name": "Subestación Espinardo",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "132000;66000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 223761171,
+  "bounds": {
+    "minlat": 38.7321639,
+    "minlon": -1.1831875,
+    "maxlat": 38.7327723,
+    "maxlon": -1.1824116
+  },
+  "nodes": [
+    2326386485,
+    2326386483,
+    2326386482,
+    2326386484,
+    2326386485
+  ],
+  "geometry": [
+    { "lat": 38.7327723, "lon": -1.1828686 },
+    { "lat": 38.7324061, "lon": -1.1824116 },
+    { "lat": 38.7321639, "lon": -1.1827305 },
+    { "lat": 38.7325300, "lon": -1.1831875 },
+    { "lat": 38.7327723, "lon": -1.1828686 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 223761172,
+  "bounds": {
+    "minlat": 38.6808268,
+    "minlon": -1.4051842,
+    "maxlat": 38.6814889,
+    "maxlon": -1.4043353
+  },
+  "nodes": [
+    2326386462,
+    2326386460,
+    2326386458,
+    2326386461,
+    2326386462
+  ],
+  "geometry": [
+    { "lat": 38.6814889, "lon": -1.4047129 },
+    { "lat": 38.6811243, "lon": -1.4043353 },
+    { "lat": 38.6808268, "lon": -1.4048065 },
+    { "lat": 38.6811915, "lon": -1.4051842 },
+    { "lat": 38.6814889, "lon": -1.4047129 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 223762049,
+  "bounds": {
+    "minlat": 38.5287205,
+    "minlon": -1.2504525,
+    "maxlat": 38.5296720,
+    "maxlon": -1.2492413
+  },
+  "nodes": [
+    2326396529,
+    2326396527,
+    2326396528,
+    2326396531,
+    2326396529
+  ],
+  "geometry": [
+    { "lat": 38.5292467, "lon": -1.2504525 },
+    { "lat": 38.5287205, "lon": -1.2498154 },
+    { "lat": 38.5291458, "lon": -1.2492413 },
+    { "lat": 38.5296720, "lon": -1.2498784 },
+    { "lat": 38.5292467, "lon": -1.2504525 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Sierra del Buey",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 224027452,
+  "bounds": {
+    "minlat": 37.6151144,
+    "minlon": -0.9856724,
+    "maxlat": 37.6151765,
+    "maxlon": -0.9855807
+  },
+  "nodes": [
+    2328571854,
+    2328571905,
+    2328571999,
+    2328571927,
+    2328571854
+  ],
+  "geometry": [
+    { "lat": 37.6151717, "lon": -0.9856724 },
+    { "lat": 37.6151765, "lon": -0.9855858 },
+    { "lat": 37.6151192, "lon": -0.9855807 },
+    { "lat": 37.6151144, "lon": -0.9856674 },
+    { "lat": 37.6151717, "lon": -0.9856724 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 224027455,
+  "bounds": {
+    "minlat": 37.6131669,
+    "minlon": -0.9851398,
+    "maxlat": 37.6132226,
+    "maxlon": -0.9850510
+  },
+  "nodes": [
+    2328571885,
+    2328571983,
+    2328572149,
+    2328572080,
+    2328571885
+  ],
+  "geometry": [
+    { "lat": 37.6132226, "lon": -0.9850532 },
+    { "lat": 37.6132207, "lon": -0.9851398 },
+    { "lat": 37.6131669, "lon": -0.9851380 },
+    { "lat": 37.6131706, "lon": -0.9850510 },
+    { "lat": 37.6132226, "lon": -0.9850532 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 224027456,
+  "bounds": {
+    "minlat": 37.6140983,
+    "minlon": -0.9831066,
+    "maxlat": 37.6141839,
+    "maxlon": -0.9829968
+  },
+  "nodes": [
+    2328571822,
+    2328572037,
+    4047968947,
+    2328571837,
+    2328572073,
+    4047970190,
+    2328571822
+  ],
+  "geometry": [
+    { "lat": 37.6141839, "lon": -0.9830408 },
+    { "lat": 37.6141446, "lon": -0.9829968 },
+    { "lat": 37.6141386, "lon": -0.9830053 },
+    { "lat": 37.6140983, "lon": -0.9830626 },
+    { "lat": 37.6141376, "lon": -0.9831066 },
+    { "lat": 37.6141778, "lon": -0.9830495 },
+    { "lat": 37.6141839, "lon": -0.9830408 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 224027458,
+  "bounds": {
+    "minlat": 37.6122313,
+    "minlon": -0.9822325,
+    "maxlat": 37.6123076,
+    "maxlon": -0.9821710
+  },
+  "nodes": [
+    2328571820,
+    4047970212,
+    3100405078,
+    3100405075,
+    4047968956,
+    2328571845,
+    2328571820
+  ],
+  "geometry": [
+    { "lat": 37.6123055, "lon": -0.9822325 },
+    { "lat": 37.6122471, "lon": -0.9822283 },
+    { "lat": 37.6122313, "lon": -0.9822284 },
+    { "lat": 37.6122333, "lon": -0.9821710 },
+    { "lat": 37.6122478, "lon": -0.9821718 },
+    { "lat": 37.6123076, "lon": -0.9821752 },
+    { "lat": 37.6123055, "lon": -0.9822325 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 224036120,
+  "bounds": {
+    "minlat": 37.6095152,
+    "minlon": -0.9813181,
+    "maxlat": 37.6095886,
+    "maxlon": -0.9812515
+  },
+  "nodes": [
+    2328708866,
+    2328708869,
+    2328708865,
+    2328708864,
+    2328708866
+  ],
+  "geometry": [
+    { "lat": 37.6095856, "lon": -0.9813181 },
+    { "lat": 37.6095886, "lon": -0.9812570 },
+    { "lat": 37.6095182, "lon": -0.9812515 },
+    { "lat": 37.6095152, "lon": -0.9813126 },
+    { "lat": 37.6095856, "lon": -0.9813181 }
+  ],
+  "tags": {
+    "building": "yes",
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 224036121,
+  "bounds": {
+    "minlat": 37.6109360,
+    "minlon": -0.9842927,
+    "maxlat": 37.6109891,
+    "maxlon": -0.9842230
+  },
+  "nodes": [
+    2328708867,
+    2328708868,
+    2328708870,
+    2328708871,
+    2328708867
+  ],
+  "geometry": [
+    { "lat": 37.6109891, "lon": -0.9842230 },
+    { "lat": 37.6109360, "lon": -0.9842230 },
+    { "lat": 37.6109360, "lon": -0.9842927 },
+    { "lat": 37.6109891, "lon": -0.9842926 },
+    { "lat": 37.6109891, "lon": -0.9842230 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 224157585,
+  "bounds": {
+    "minlat": 37.6110605,
+    "minlon": -0.9786873,
+    "maxlat": 37.6111358,
+    "maxlon": -0.9785832
+  },
+  "nodes": [
+    2329878488,
+    2329878497,
+    2329878487,
+    2329878493,
+    2329878488
+  ],
+  "geometry": [
+    { "lat": 37.6111066, "lon": -0.9786873 },
+    { "lat": 37.6110605, "lon": -0.9786614 },
+    { "lat": 37.6110898, "lon": -0.9785832 },
+    { "lat": 37.6111358, "lon": -0.9786087 },
+    { "lat": 37.6111066, "lon": -0.9786873 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 224174576,
+  "bounds": {
+    "minlat": 37.6103764,
+    "minlon": -0.9909017,
+    "maxlat": 37.6104113,
+    "maxlon": -0.9908533
+  },
+  "nodes": [
+    2329990373,
+    2329990215,
+    2329990204,
+    2329990242,
+    2329990373
+  ],
+  "geometry": [
+    { "lat": 37.6104106, "lon": -0.9909017 },
+    { "lat": 37.6103764, "lon": -0.9909009 },
+    { "lat": 37.6103771, "lon": -0.9908533 },
+    { "lat": 37.6104113, "lon": -0.9908540 },
+    { "lat": 37.6104106, "lon": -0.9909017 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 225751458,
+  "bounds": {
+    "minlat": 37.6061527,
+    "minlon": -0.9875627,
+    "maxlat": 37.6062180,
+    "maxlon": -0.9874435
+  },
+  "nodes": [
+    2345068227,
+    2345068283,
+    2345068258,
+    2345068220,
+    2345068227
+  ],
+  "geometry": [
+    { "lat": 37.6062050, "lon": -0.9875627 },
+    { "lat": 37.6061527, "lon": -0.9875447 },
+    { "lat": 37.6061685, "lon": -0.9874435 },
+    { "lat": 37.6062180, "lon": -0.9874542 },
+    { "lat": 37.6062050, "lon": -0.9875627 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 226927145,
+  "bounds": {
+    "minlat": 37.7349934,
+    "minlon": -1.0294428,
+    "maxlat": 37.7361698,
+    "maxlon": -1.0277146
+  },
+  "nodes": [
+    2356632861,
+    2356632898,
+    2356632860,
+    2356632824,
+    2356632836,
+    2356632863,
+    2686604797,
+    2356632886,
+    2356632861
+  ],
+  "geometry": [
+    { "lat": 37.7360392, "lon": -1.0285817 },
+    { "lat": 37.7352203, "lon": -1.0294428 },
+    { "lat": 37.7349934, "lon": -1.0290670 },
+    { "lat": 37.7352711, "lon": -1.0287725 },
+    { "lat": 37.7351408, "lon": -1.0285708 },
+    { "lat": 37.7360188, "lon": -1.0277146 },
+    { "lat": 37.7361532, "lon": -1.0279469 },
+    { "lat": 37.7361698, "lon": -1.0281488 },
+    { "lat": 37.7360392, "lon": -1.0285817 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación CHS Fuente Álamo",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 229184275,
+  "bounds": {
+    "minlat": 38.5226929,
+    "minlon": -1.3333607,
+    "maxlat": 38.5237076,
+    "maxlon": -1.3322628
+  },
+  "nodes": [
+    2378108706,
+    2378108551,
+    2378108385,
+    2378108369,
+    2378108246,
+    2378108453,
+    2378108637,
+    2378108723,
+    2378108706
+  ],
+  "geometry": [
+    { "lat": 38.5236942, "lon": -1.3328432 },
+    { "lat": 38.5233134, "lon": -1.3331009 },
+    { "lat": 38.5229458, "lon": -1.3333497 },
+    { "lat": 38.5229296, "lon": -1.3333607 },
+    { "lat": 38.5226929, "lon": -1.3327894 },
+    { "lat": 38.5230566, "lon": -1.3325432 },
+    { "lat": 38.5234709, "lon": -1.3322628 },
+    { "lat": 38.5237076, "lon": -1.3328341 },
+    { "lat": 38.5236942, "lon": -1.3328432 }
+  ],
+  "tags": {
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 239456495,
+  "bounds": {
+    "minlat": 37.9703431,
+    "minlon": -1.2247465,
+    "maxlat": 37.9703972,
+    "maxlon": -1.2247129
+  },
+  "nodes": [
+    2472326111,
+    2472326113,
+    2472326112,
+    2472326110,
+    2472326111
+  ],
+  "geometry": [
+    { "lat": 37.9703460, "lon": -1.2247465 },
+    { "lat": 37.9703972, "lon": -1.2247379 },
+    { "lat": 37.9703965, "lon": -1.2247129 },
+    { "lat": 37.9703431, "lon": -1.2247197 },
+    { "lat": 37.9703460, "lon": -1.2247465 }
+  ],
+  "tags": {
+    "addr:street": "Avenida Principe",
+    "building": "industrial",
+    "power": "substation",
+    "ref:ES:catastro": "5940201XH5054B",
+    "works": "electric"
+  }
+},
+{
+  "type": "way",
+  "id": 256898938,
+  "bounds": {
+    "minlat": 37.6097451,
+    "minlon": -0.9791714,
+    "maxlat": 37.6097935,
+    "maxlon": -0.9789589
+  },
+  "nodes": [
+    2625208821,
+    2625208920,
+    2625208803,
+    2625208937,
+    2625208821
+  ],
+  "geometry": [
+    { "lat": 37.6097935, "lon": -0.9789595 },
+    { "lat": 37.6097919, "lon": -0.9791714 },
+    { "lat": 37.6097451, "lon": -0.9791708 },
+    { "lat": 37.6097468, "lon": -0.9789589 },
+    { "lat": 37.6097935, "lon": -0.9789595 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 259111085,
+  "bounds": {
+    "minlat": 37.6206628,
+    "minlon": -0.9902400,
+    "maxlat": 37.6207261,
+    "maxlon": -0.9901820
+  },
+  "nodes": [
+    2644454546,
+    2644454565,
+    2644454554,
+    2644454570,
+    2644454546
+  ],
+  "geometry": [
+    { "lat": 37.6207216, "lon": -0.9902400 },
+    { "lat": 37.6206628, "lon": -0.9902314 },
+    { "lat": 37.6206673, "lon": -0.9901820 },
+    { "lat": 37.6207261, "lon": -0.9901906 },
+    { "lat": 37.6207216, "lon": -0.9902400 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 260774597,
+  "bounds": {
+    "minlat": 37.7037255,
+    "minlon": -1.0964355,
+    "maxlat": 37.7054189,
+    "maxlon": -1.0940647
+  },
+  "nodes": [
+    2663350379,
+    2663350414,
+    5808105272,
+    2663350384,
+    2663350522,
+    2663350417,
+    2663350486,
+    2663350379
+  ],
+  "geometry": [
+    { "lat": 37.7050063, "lon": -1.0954461 },
+    { "lat": 37.7042390, "lon": -1.0964355 },
+    { "lat": 37.7041620, "lon": -1.0963401 },
+    { "lat": 37.7037255, "lon": -1.0957992 },
+    { "lat": 37.7050707, "lon": -1.0940647 },
+    { "lat": 37.7054189, "lon": -1.0944961 },
+    { "lat": 37.7048410, "lon": -1.0952413 },
+    { "lat": 37.7050063, "lon": -1.0954461 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación La Aljorra",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 260774601,
+  "bounds": {
+    "minlat": 37.7031613,
+    "minlon": -1.0981428,
+    "maxlat": 37.7034703,
+    "maxlon": -1.0977478
+  },
+  "nodes": [
+    2663350377,
+    2663350470,
+    2663350376,
+    2663350542,
+    2663350377
+  ],
+  "geometry": [
+    { "lat": 37.7032755, "lon": -1.0981428 },
+    { "lat": 37.7034703, "lon": -1.0978864 },
+    { "lat": 37.7033560, "lon": -1.0977478 },
+    { "lat": 37.7031613, "lon": -1.0980042 },
+    { "lat": 37.7032755, "lon": -1.0981428 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Air Liquide",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 260787085,
+  "bounds": {
+    "minlat": 37.6810385,
+    "minlon": -1.1735453,
+    "maxlat": 37.6821933,
+    "maxlon": -1.1724939
+  },
+  "nodes": [
+    2663455806,
+    2663455876,
+    2663455882,
+    2663455912,
+    2663455839,
+    2663455869,
+    2663455806
+  ],
+  "geometry": [
+    { "lat": 37.6820867, "lon": -1.1735453 },
+    { "lat": 37.6821933, "lon": -1.1728319 },
+    { "lat": 37.6821126, "lon": -1.1726709 },
+    { "lat": 37.6811276, "lon": -1.1724939 },
+    { "lat": 37.6810385, "lon": -1.1730035 },
+    { "lat": 37.6811446, "lon": -1.1733093 },
+    { "lat": 37.6820867, "lon": -1.1735453 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Mayordomos",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 260794471,
+  "bounds": {
+    "minlat": 37.5916172,
+    "minlon": -1.2210035,
+    "maxlat": 37.5921549,
+    "maxlon": -1.2202682
+  },
+  "nodes": [
+    2663516578,
+    2663516604,
+    2663516590,
+    2663516562,
+    2663516615,
+    2663516601,
+    2663516578
+  ],
+  "geometry": [
+    { "lat": 37.5921336, "lon": -1.2203406 },
+    { "lat": 37.5921549, "lon": -1.2209736 },
+    { "lat": 37.5916261, "lon": -1.2210035 },
+    { "lat": 37.5916172, "lon": -1.2204774 },
+    { "lat": 37.5916282, "lon": -1.2202793 },
+    { "lat": 37.5920018, "lon": -1.2202682 },
+    { "lat": 37.5921336, "lon": -1.2203406 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Puerto de Mazarrón",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 263022833,
+  "bounds": {
+    "minlat": 37.7323593,
+    "minlon": -1.0547744,
+    "maxlat": 37.7331594,
+    "maxlon": -1.0536481
+  },
+  "nodes": [
+    2686583799,
+    2686583811,
+    2686583801,
+    2686583781,
+    2686583799
+  ],
+  "geometry": [
+    { "lat": 37.7331594, "lon": -1.0538514 },
+    { "lat": 37.7329659, "lon": -1.0547744 },
+    { "lat": 37.7323593, "lon": -1.0545712 },
+    { "lat": 37.7325528, "lon": -1.0536481 },
+    { "lat": 37.7331594, "lon": -1.0538514 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Albujón",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 263044071,
+  "bounds": {
+    "minlat": 37.5734316,
+    "minlon": -0.9185303,
+    "maxlat": 37.5742496,
+    "maxlon": -0.9172951
+  },
+  "nodes": [
+    2686704234,
+    2686704235,
+    2686704238,
+    2686704237,
+    2686704234
+  ],
+  "geometry": [
+    { "lat": 37.5742496, "lon": -0.9174077 },
+    { "lat": 37.5735442, "lon": -0.9172951 },
+    { "lat": 37.5734316, "lon": -0.9184177 },
+    { "lat": 37.5741371, "lon": -0.9185303 },
+    { "lat": 37.5742496, "lon": -0.9174077 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Repsol",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 263061068,
+  "bounds": {
+    "minlat": 37.5844765,
+    "minlon": -1.2184577,
+    "maxlat": 37.5847727,
+    "maxlon": -1.2178647
+  },
+  "nodes": [
+    2686853012,
+    2686853370,
+    2686853048,
+    2686853062,
+    2686853363,
+    2686853262,
+    2686853012
+  ],
+  "geometry": [
+    { "lat": 37.5847727, "lon": -1.2184187 },
+    { "lat": 37.5846106, "lon": -1.2178647 },
+    { "lat": 37.5844765, "lon": -1.2179272 },
+    { "lat": 37.5845804, "lon": -1.2182825 },
+    { "lat": 37.5846308, "lon": -1.2182591 },
+    { "lat": 37.5846889, "lon": -1.2184577 },
+    { "lat": 37.5847727, "lon": -1.2184187 }
+  ],
+  "tags": {
+    "location": "outdoor",
+    "name": "Subestación 132kV",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 264033253,
+  "bounds": {
+    "minlat": 37.6178145,
+    "minlon": -0.9848748,
+    "maxlat": 37.6178603,
+    "maxlon": -0.9848120
+  },
+  "nodes": [
+    2697088056,
+    2697088107,
+    2697087835,
+    2697087856,
+    2697088056
+  ],
+  "geometry": [
+    { "lat": 37.6178591, "lon": -0.9848748 },
+    { "lat": 37.6178603, "lon": -0.9848132 },
+    { "lat": 37.6178156, "lon": -0.9848120 },
+    { "lat": 37.6178145, "lon": -0.9848735 },
+    { "lat": 37.6178591, "lon": -0.9848748 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 264212877,
+  "bounds": {
+    "minlat": 37.6278255,
+    "minlon": -0.7136052,
+    "maxlat": 37.6283511,
+    "maxlon": -0.7127530
+  },
+  "nodes": [
+    2698730627,
+    2596980703,
+    2596980705,
+    2698730753,
+    2698730627
+  ],
+  "geometry": [
+    { "lat": 37.6279108, "lon": -0.7127530 },
+    { "lat": 37.6283511, "lon": -0.7128303 },
+    { "lat": 37.6282658, "lon": -0.7136052 },
+    { "lat": 37.6278255, "lon": -0.7135280 },
+    { "lat": 37.6279108, "lon": -0.7127530 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación La Manga",
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 272264996,
+  "bounds": {
+    "minlat": 37.6043825,
+    "minlon": -0.9808243,
+    "maxlat": 37.6044498,
+    "maxlon": -0.9807171
+  },
+  "nodes": [
+    2772222933,
+    2772222925,
+    2772222932,
+    2772222930,
+    2772222933
+  ],
+  "geometry": [
+    { "lat": 37.6044498, "lon": -0.9807346 },
+    { "lat": 37.6044284, "lon": -0.9808243 },
+    { "lat": 37.6043825, "lon": -0.9808068 },
+    { "lat": 37.6044039, "lon": -0.9807171 },
+    { "lat": 37.6044498, "lon": -0.9807346 }
+  ],
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 273498844,
+  "bounds": {
+    "minlat": 37.6509950,
+    "minlon": -1.0132178,
+    "maxlat": 37.6510274,
+    "maxlon": -1.0131347
+  },
+  "nodes": [
+    2783414698,
+    2783414642,
+    2783414626,
+    2783414675,
+    2783414698
+  ],
+  "geometry": [
+    { "lat": 37.6510274, "lon": -1.0131378 },
+    { "lat": 37.6510225, "lon": -1.0132178 },
+    { "lat": 37.6509950, "lon": -1.0132150 },
+    { "lat": 37.6510006, "lon": -1.0131347 },
+    { "lat": 37.6510274, "lon": -1.0131378 }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 273674984,
+  "bounds": {
+    "minlat": 37.6193694,
+    "minlon": -0.9943936,
+    "maxlat": 37.6194316,
+    "maxlon": -0.9943016
+  },
+  "nodes": [
+    2785077181,
+    2785077263,
+    2785077578,
+    2785077502,
+    2785077181
+  ],
+  "geometry": [
+    { "lat": 37.6194135, "lon": -0.9943936 },
+    { "lat": 37.6193694, "lon": -0.9943766 },
+    { "lat": 37.6193876, "lon": -0.9943016 },
+    { "lat": 37.6194316, "lon": -0.9943185 },
+    { "lat": 37.6194135, "lon": -0.9943936 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 273727238,
+  "bounds": {
+    "minlat": 37.6042637,
+    "minlon": -0.9917787,
+    "maxlat": 37.6043426,
+    "maxlon": -0.9916765
+  },
+  "nodes": [
+    2785574215,
+    2785574176,
+    2785574223,
+    2785574177,
+    2785574215
+  ],
+  "geometry": [
+    { "lat": 37.6043426, "lon": -0.9917363 },
+    { "lat": 37.6043066, "lon": -0.9916765 },
+    { "lat": 37.6042637, "lon": -0.9917170 },
+    { "lat": 37.6043004, "lon": -0.9917787 },
+    { "lat": 37.6043426, "lon": -0.9917363 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 273737719,
+  "bounds": {
+    "minlat": 37.6052847,
+    "minlon": -0.9962829,
+    "maxlat": 37.6053308,
+    "maxlon": -0.9962232
+  },
+  "nodes": [
+    2785699401,
+    2785699409,
+    2785699481,
+    2785699400,
+    2785699401
+  ],
+  "geometry": [
+    { "lat": 37.6052847, "lon": -0.9962711 },
+    { "lat": 37.6052944, "lon": -0.9962232 },
+    { "lat": 37.6053308, "lon": -0.9962351 },
+    { "lat": 37.6053211, "lon": -0.9962829 },
+    { "lat": 37.6052847, "lon": -0.9962711 }
+  ],
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 275120100,
+  "bounds": {
+    "minlat": 37.6058653,
+    "minlon": -0.9926448,
+    "maxlat": 37.6059176,
+    "maxlon": -0.9925824
+  },
+  "nodes": [
+    2797755406,
+    2797755392,
+    2797755393,
+    2797755391,
+    2797755406
+  ],
+  "geometry": [
+    { "lat": 37.6059176, "lon": -0.9926083 },
+    { "lat": 37.6058819, "lon": -0.9925824 },
+    { "lat": 37.6058653, "lon": -0.9926189 },
+    { "lat": 37.6059010, "lon": -0.9926448 },
+    { "lat": 37.6059176, "lon": -0.9926083 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 275447737,
+  "bounds": {
+    "minlat": 37.5936783,
+    "minlon": -0.9690605,
+    "maxlat": 37.5937461,
+    "maxlon": -0.9689771
+  },
+  "nodes": [
+    2800765007,
+    2800764938,
+    2800765038,
+    2800764999,
+    2800765007
+  ],
+  "geometry": [
+    { "lat": 37.5937461, "lon": -0.9690146 },
+    { "lat": 37.5937040, "lon": -0.9689771 },
+    { "lat": 37.5936783, "lon": -0.9690231 },
+    { "lat": 37.5937204, "lon": -0.9690605 },
+    { "lat": 37.5937461, "lon": -0.9690146 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 275452104,
+  "bounds": {
+    "minlat": 37.6127957,
+    "minlon": -1.0144643,
+    "maxlat": 37.6131571,
+    "maxlon": -1.0141447
+  },
+  "nodes": [
+    2800795260,
+    2800795243,
+    2800795255,
+    2800795240,
+    2800795245,
+    2800795237,
+    2800795260
+  ],
+  "geometry": [
+    { "lat": 37.6131571, "lon": -1.0144382 },
+    { "lat": 37.6131298, "lon": -1.0141447 },
+    { "lat": 37.6127957, "lon": -1.0141942 },
+    { "lat": 37.6128155, "lon": -1.0144074 },
+    { "lat": 37.6129729, "lon": -1.0143841 },
+    { "lat": 37.6129804, "lon": -1.0144643 },
+    { "lat": 37.6131571, "lon": -1.0144382 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "SET Hospital Marina",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 275506797,
+  "bounds": {
+    "minlat": 37.6251301,
+    "minlon": -0.9823949,
+    "maxlat": 37.6251791,
+    "maxlon": -0.9823446
+  },
+  "nodes": [
+    2801434400,
+    2801438721,
+    2801438501,
+    2801438592,
+    2801434400
+  ],
+  "geometry": [
+    { "lat": 37.6251777, "lon": -0.9823949 },
+    { "lat": 37.6251791, "lon": -0.9823469 },
+    { "lat": 37.6251315, "lon": -0.9823446 },
+    { "lat": 37.6251301, "lon": -0.9823927 },
+    { "lat": 37.6251777, "lon": -0.9823949 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 280159280,
+  "bounds": {
+    "minlat": 38.6163607,
+    "minlon": -1.0853722,
+    "maxlat": 38.6170677,
+    "maxlon": -1.0842097
+  },
+  "nodes": [
+    2843129200,
+    2843129196,
+    7239581963,
+    2843129195,
+    2843129192,
+    2843129191,
+    2843129193,
+    2843129194,
+    2843129197,
+    2843129198,
+    2843129199,
+    2843129200
+  ],
+  "geometry": [
+    { "lat": 38.6170677, "lon": -1.0842545 },
+    { "lat": 38.6165276, "lon": -1.0842097 },
+    { "lat": 38.6165079, "lon": -1.0842495 },
+    { "lat": 38.6165028, "lon": -1.0843004 },
+    { "lat": 38.6163863, "lon": -1.0842861 },
+    { "lat": 38.6163607, "lon": -1.0847241 },
+    { "lat": 38.6163786, "lon": -1.0850926 },
+    { "lat": 38.6164144, "lon": -1.0851490 },
+    { "lat": 38.6166497, "lon": -1.0853253 },
+    { "lat": 38.6168597, "lon": -1.0853722 },
+    { "lat": 38.6170447, "lon": -1.0850199 },
+    { "lat": 38.6170677, "lon": -1.0842545 }
+  ],
+  "tags": {
+    "barrier": "fence",
+    "location": "indoor",
+    "name": "Subestación Yecla",
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 285462144,
+  "bounds": {
+    "minlat": 37.6325059,
+    "minlon": -1.3424678,
+    "maxlat": 37.6331542,
+    "maxlon": -1.3415752
+  },
+  "nodes": [
+    2891357131,
+    2891357227,
+    2891357204,
+    2891357183,
+    2891357184,
+    2891357186,
+    2891357203,
+    2891357201,
+    7231230768,
+    2891357212,
+    2891357338,
+    2891357192,
+    2891357332,
+    2891357153,
+    2891357333,
+    2891357152,
+    2891357150,
+    2891356292,
+    2891357182,
+    2891356293,
+    2891357131
+  ],
+  "geometry": [
+    { "lat": 37.6331375, "lon": -1.3421130 },
+    { "lat": 37.6330037, "lon": -1.3420165 },
+    { "lat": 37.6330218, "lon": -1.3419789 },
+    { "lat": 37.6329984, "lon": -1.3419601 },
+    { "lat": 37.6329166, "lon": -1.3415900 },
+    { "lat": 37.6328497, "lon": -1.3416168 },
+    { "lat": 37.6327584, "lon": -1.3415752 },
+    { "lat": 37.6325059, "lon": -1.3418207 },
+    { "lat": 37.6327754, "lon": -1.3423450 },
+    { "lat": 37.6328189, "lon": -1.3423839 },
+    { "lat": 37.6330409, "lon": -1.3424584 },
+    { "lat": 37.6330537, "lon": -1.3424363 },
+    { "lat": 37.6330933, "lon": -1.3424678 },
+    { "lat": 37.6331144, "lon": -1.3424277 },
+    { "lat": 37.6331290, "lon": -1.3424400 },
+    { "lat": 37.6331542, "lon": -1.3423920 },
+    { "lat": 37.6330685, "lon": -1.3423155 },
+    { "lat": 37.6330931, "lon": -1.3422834 },
+    { "lat": 37.6330706, "lon": -1.3422444 },
+    { "lat": 37.6330919, "lon": -1.3422122 },
+    { "lat": 37.6331375, "lon": -1.3421130 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Mazarrón",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 285476795,
+  "bounds": {
+    "minlat": 37.7061136,
+    "minlon": -1.1871886,
+    "maxlat": 37.7068924,
+    "maxlon": -1.1861971
+  },
+  "nodes": [
+    2891537992,
+    2891537944,
+    2891537994,
+    2891537975,
+    2891537980,
+    2891537982,
+    2891537992
+  ],
+  "geometry": [
+    { "lat": 37.7062362, "lon": -1.1861971 },
+    { "lat": 37.7068924, "lon": -1.1869740 },
+    { "lat": 37.7066272, "lon": -1.1871886 },
+    { "lat": 37.7061136, "lon": -1.1864958 },
+    { "lat": 37.7061690, "lon": -1.1864400 },
+    { "lat": 37.7061576, "lon": -1.1862525 },
+    { "lat": 37.7062362, "lon": -1.1861971 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 285476799,
+  "bounds": {
+    "minlat": 37.7076161,
+    "minlon": -1.1848655,
+    "maxlat": 37.7078772,
+    "maxlon": -1.1845758
+  },
+  "nodes": [
+    2891537984,
+    2891537987,
+    2891537983,
+    2891537990,
+    2891537978,
+    2891537997,
+    2891537984
+  ],
+  "geometry": [
+    { "lat": 37.7078772, "lon": -1.1846777 },
+    { "lat": 37.7077754, "lon": -1.1845758 },
+    { "lat": 37.7076161, "lon": -1.1848277 },
+    { "lat": 37.7077075, "lon": -1.1848655 },
+    { "lat": 37.7077245, "lon": -1.1848253 },
+    { "lat": 37.7078157, "lon": -1.1847904 },
+    { "lat": 37.7078772, "lon": -1.1846777 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 285484235,
+  "bounds": {
+    "minlat": 37.6010320,
+    "minlon": -0.9133439,
+    "maxlat": 37.6014490,
+    "maxlon": -0.9128574
+  },
+  "nodes": [
+    2891599943,
+    2891599941,
+    2891599930,
+    2891599977,
+    2891599976,
+    2891599954,
+    2891599979,
+    2891603014,
+    2891599943
+  ],
+  "geometry": [
+    { "lat": 37.6013847, "lon": -0.9128574 },
+    { "lat": 37.6014490, "lon": -0.9132698 },
+    { "lat": 37.6011508, "lon": -0.9133439 },
+    { "lat": 37.6011334, "lon": -0.9132325 },
+    { "lat": 37.6010625, "lon": -0.9132501 },
+    { "lat": 37.6010320, "lon": -0.9130544 },
+    { "lat": 37.6011012, "lon": -0.9130372 },
+    { "lat": 37.6010848, "lon": -0.9129319 },
+    { "lat": 37.6013847, "lon": -0.9128574 }
+  ],
+  "tags": {
+    "location": "outdoor",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 285484236,
+  "bounds": {
+    "minlat": 37.5782090,
+    "minlon": -0.9239947,
+    "maxlat": 37.5785642,
+    "maxlon": -0.9235087
+  },
+  "nodes": [
+    2891599927,
+    2891599933,
+    2891599946,
+    2891599931,
+    2891599945,
+    2891599950,
+    2891599955,
+    2891599958,
+    2891599927
+  ],
+  "geometry": [
+    { "lat": 37.5785642, "lon": -0.9235613 },
+    { "lat": 37.5783792, "lon": -0.9235087 },
+    { "lat": 37.5783635, "lon": -0.9235970 },
+    { "lat": 37.5782475, "lon": -0.9235641 },
+    { "lat": 37.5782090, "lon": -0.9237797 },
+    { "lat": 37.5783241, "lon": -0.9238124 },
+    { "lat": 37.5783010, "lon": -0.9239419 },
+    { "lat": 37.5784869, "lon": -0.9239947 },
+    { "lat": 37.5785642, "lon": -0.9235613 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 305472501,
+  "bounds": {
+    "minlat": 37.6119021,
+    "minlon": -0.9802846,
+    "maxlat": 37.6119800,
+    "maxlon": -0.9801844
+  },
+  "nodes": [
+    3101002262,
+    2328571973,
+    3101002264,
+    2300301420,
+    3101002262
+  ],
+  "geometry": [
+    { "lat": 37.6119800, "lon": -0.9802249 },
+    { "lat": 37.6119426, "lon": -0.9801844 },
+    { "lat": 37.6119021, "lon": -0.9802441 },
+    { "lat": 37.6119395, "lon": -0.9802846 },
+    { "lat": 37.6119800, "lon": -0.9802249 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 317510027,
+  "bounds": {
+    "minlat": 37.9407422,
+    "minlon": -1.1700869,
+    "maxlat": 37.9407862,
+    "maxlon": -1.1700037
+  },
+  "nodes": [
+    3237826662,
+    3237826661,
+    3097184272,
+    3237826159,
+    3237826662
+  ],
+  "geometry": [
+    { "lat": 37.9407735, "lon": -1.1700869 },
+    { "lat": 37.9407422, "lon": -1.1700782 },
+    { "lat": 37.9407561, "lon": -1.1700037 },
+    { "lat": 37.9407862, "lon": -1.1700172 },
+    { "lat": 37.9407735, "lon": -1.1700869 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 330498677,
+  "bounds": {
+    "minlat": 37.6219083,
+    "minlon": -0.8790107,
+    "maxlat": 37.6225928,
+    "maxlon": -0.8780751
+  },
+  "nodes": [
+    4022554411,
+    2693282068,
+    2693282074,
+    2693282081,
+    2693282078,
+    2693282054,
+    2693282047,
+    2693282080,
+    2693282061,
+    4022554410,
+    4022554411
+  ],
+  "geometry": [
+    { "lat": 37.6225928, "lon": -0.8782850 },
+    { "lat": 37.6221911, "lon": -0.8780751 },
+    { "lat": 37.6221250, "lon": -0.8782785 },
+    { "lat": 37.6221552, "lon": -0.8782942 },
+    { "lat": 37.6220706, "lon": -0.8785545 },
+    { "lat": 37.6219699, "lon": -0.8785024 },
+    { "lat": 37.6219083, "lon": -0.8786561 },
+    { "lat": 37.6220128, "lon": -0.8787141 },
+    { "lat": 37.6219387, "lon": -0.8789267 },
+    { "lat": 37.6220704, "lon": -0.8790107 },
+    { "lat": 37.6225928, "lon": -0.8782850 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación de La Unión",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 347920962,
+  "bounds": {
+    "minlat": 38.0852532,
+    "minlon": -1.0571429,
+    "maxlat": 38.0855689,
+    "maxlon": -1.0565823
+  },
+  "nodes": [
+    3541341560,
+    3541341559,
+    3541341558,
+    3541341555,
+    3541341554,
+    3541341550,
+    3541341551,
+    3541341552,
+    3541341556,
+    3541341557,
+    3541341560
+  ],
+  "geometry": [
+    { "lat": 38.0855689, "lon": -1.0571324 },
+    { "lat": 38.0855446, "lon": -1.0566954 },
+    { "lat": 38.0854152, "lon": -1.0566744 },
+    { "lat": 38.0853739, "lon": -1.0566390 },
+    { "lat": 38.0853673, "lon": -1.0565823 },
+    { "lat": 38.0852532, "lon": -1.0565865 },
+    { "lat": 38.0852846, "lon": -1.0571177 },
+    { "lat": 38.0853292, "lon": -1.0571148 },
+    { "lat": 38.0853805, "lon": -1.0571114 },
+    { "lat": 38.0853838, "lon": -1.0571429 },
+    { "lat": 38.0855689, "lon": -1.0571324 }
+  ],
+  "tags": {
+    "name": "Subestación Santomera",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 354313949,
+  "bounds": {
+    "minlat": 37.6127814,
+    "minlon": -1.0248933,
+    "maxlat": 37.6128436,
+    "maxlon": -1.0247973
+  },
+  "nodes": [
+    3600471476,
+    3600471474,
+    3600471475,
+    3600471477,
+    3600471476
+  ],
+  "geometry": [
+    { "lat": 37.6128202, "lon": -1.0248933 },
+    { "lat": 37.6127814, "lon": -1.0248746 },
+    { "lat": 37.6128048, "lon": -1.0247973 },
+    { "lat": 37.6128436, "lon": -1.0248159 },
+    { "lat": 37.6128202, "lon": -1.0248933 }
+  ],
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 363761883,
+  "bounds": {
+    "minlat": 37.6219529,
+    "minlon": -0.9908083,
+    "maxlat": 37.6219890,
+    "maxlon": -0.9907612
+  },
+  "nodes": [
+    2306943657,
+    3678956005,
+    3678956003,
+    3678956004,
+    2306943657
+  ],
+  "geometry": [
+    { "lat": 37.6219890, "lon": -0.9907696 },
+    { "lat": 37.6219806, "lon": -0.9908083 },
+    { "lat": 37.6219529, "lon": -0.9908005 },
+    { "lat": 37.6219598, "lon": -0.9907612 },
+    { "lat": 37.6219890, "lon": -0.9907696 }
+  ],
+  "tags": {
+    "building": "yes",
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 366011489,
+  "bounds": {
+    "minlat": 37.6164120,
+    "minlon": -1.0201914,
+    "maxlat": 37.6164320,
+    "maxlon": -1.0201286
+  },
+  "nodes": [
+    3700037534,
+    3700037533,
+    3700037532,
+    3700037531,
+    3700037534
+  ],
+  "geometry": [
+    { "lat": 37.6164317, "lon": -1.0201914 },
+    { "lat": 37.6164320, "lon": -1.0201289 },
+    { "lat": 37.6164120, "lon": -1.0201286 },
+    { "lat": 37.6164120, "lon": -1.0201906 },
+    { "lat": 37.6164317, "lon": -1.0201914 }
+  ],
+  "tags": {
+    "building": "yes",
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 369702974,
+  "bounds": {
+    "minlat": 37.6255341,
+    "minlon": -0.9966365,
+    "maxlat": 37.6255884,
+    "maxlon": -0.9965703
+  },
+  "nodes": [
+    3734723312,
+    2336877773,
+    3734723320,
+    2336877749,
+    3734723312
+  ],
+  "geometry": [
+    { "lat": 37.6255341, "lon": -0.9966365 },
+    { "lat": 37.6255878, "lon": -0.9966365 },
+    { "lat": 37.6255884, "lon": -0.9965703 },
+    { "lat": 37.6255352, "lon": -0.9965706 },
+    { "lat": 37.6255341, "lon": -0.9966365 }
+  ],
+  "tags": {
+    "building": "yes",
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 370164427,
+  "bounds": {
+    "minlat": 37.6019373,
+    "minlon": -0.9979093,
+    "maxlat": 37.6019730,
+    "maxlon": -0.9978631
+  },
+  "nodes": [
+    3738888411,
+    3738888412,
+    3738888413,
+    3738888414,
+    3738888411
+  ],
+  "geometry": [
+    { "lat": 37.6019552, "lon": -0.9979093 },
+    { "lat": 37.6019373, "lon": -0.9978912 },
+    { "lat": 37.6019551, "lon": -0.9978631 },
+    { "lat": 37.6019730, "lon": -0.9978812 },
+    { "lat": 37.6019552, "lon": -0.9979093 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 372027288,
+  "bounds": {
+    "minlat": 37.6667793,
+    "minlon": -0.9566477,
+    "maxlat": 37.6668092,
+    "maxlon": -0.9565942
+  },
+  "nodes": [
+    3755640527,
+    3755640528,
+    3755640529,
+    3755640530,
+    3755640527
+  ],
+  "geometry": [
+    { "lat": 37.6668092, "lon": -0.9566418 },
+    { "lat": 37.6667874, "lon": -0.9566477 },
+    { "lat": 37.6667793, "lon": -0.9566001 },
+    { "lat": 37.6668011, "lon": -0.9565942 },
+    { "lat": 37.6668092, "lon": -0.9566418 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 372059500,
+  "bounds": {
+    "minlat": 37.6683521,
+    "minlon": -0.9559581,
+    "maxlat": 37.6683793,
+    "maxlon": -0.9559103
+  },
+  "nodes": [
+    3755948105,
+    3755948106,
+    3755948107,
+    3755948108,
+    3755948105
+  ],
+  "geometry": [
+    { "lat": 37.6683588, "lon": -0.9559581 },
+    { "lat": 37.6683793, "lon": -0.9559529 },
+    { "lat": 37.6683726, "lon": -0.9559103 },
+    { "lat": 37.6683521, "lon": -0.9559155 },
+    { "lat": 37.6683588, "lon": -0.9559581 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 372178925,
+  "bounds": {
+    "minlat": 37.6673578,
+    "minlon": -0.9539581,
+    "maxlat": 37.6674266,
+    "maxlon": -0.9538693
+  },
+  "nodes": [
+    3757111214,
+    3757119041,
+    3757119042,
+    3757119040,
+    3757111214
+  ],
+  "geometry": [
+    { "lat": 37.6673885, "lon": -0.9539581 },
+    { "lat": 37.6674266, "lon": -0.9539181 },
+    { "lat": 37.6673977, "lon": -0.9538693 },
+    { "lat": 37.6673578, "lon": -0.9539081 },
+    { "lat": 37.6673885, "lon": -0.9539581 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 378928044,
+  "bounds": {
+    "minlat": 37.6492562,
+    "minlon": -1.0136420,
+    "maxlat": 37.6493097,
+    "maxlon": -1.0135495
+  },
+  "nodes": [
+    3822855668,
+    3822855666,
+    3822855662,
+    3822855665,
+    3822855668
+  ],
+  "geometry": [
+    { "lat": 37.6493097, "lon": -1.0136265 },
+    { "lat": 37.6492832, "lon": -1.0136420 },
+    { "lat": 37.6492562, "lon": -1.0135637 },
+    { "lat": 37.6492813, "lon": -1.0135495 },
+    { "lat": 37.6493097, "lon": -1.0136265 }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 378950338,
+  "bounds": {
+    "minlat": 37.6527384,
+    "minlon": -1.0172716,
+    "maxlat": 37.6527713,
+    "maxlon": -1.0171783
+  },
+  "nodes": [
+    3823150752,
+    3823150754,
+    3823150751,
+    3823150748,
+    3823150752
+  ],
+  "geometry": [
+    { "lat": 37.6527640, "lon": -1.0172716 },
+    { "lat": 37.6527713, "lon": -1.0171812 },
+    { "lat": 37.6527457, "lon": -1.0171783 },
+    { "lat": 37.6527384, "lon": -1.0172690 },
+    { "lat": 37.6527640, "lon": -1.0172716 }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 380939925,
+  "bounds": {
+    "minlat": 37.6529060,
+    "minlon": -1.0125357,
+    "maxlat": 37.6529392,
+    "maxlon": -1.0124326
+  },
+  "nodes": [
+    3842335995,
+    3842335993,
+    3842335994,
+    3842335996,
+    3842335995
+  ],
+  "geometry": [
+    { "lat": 37.6529312, "lon": -1.0125357 },
+    { "lat": 37.6529060, "lon": -1.0125326 },
+    { "lat": 37.6529132, "lon": -1.0124326 },
+    { "lat": 37.6529392, "lon": -1.0124351 },
+    { "lat": 37.6529312, "lon": -1.0125357 }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 383958836,
+  "bounds": {
+    "minlat": 38.4628232,
+    "minlon": -1.3300883,
+    "maxlat": 38.4640510,
+    "maxlon": -1.3286197
+  },
+  "nodes": [
+    3872614309,
+    3872614310,
+    3872614311,
+    3872614312,
+    3872614309
+  ],
+  "geometry": [
+    { "lat": 38.4636545, "lon": -1.3300883 },
+    { "lat": 38.4640510, "lon": -1.3293144 },
+    { "lat": 38.4632197, "lon": -1.3286197 },
+    { "lat": 38.4628232, "lon": -1.3293936 },
+    { "lat": 38.4636545, "lon": -1.3300883 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Jumilla",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "132000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 403058872,
+  "bounds": {
+    "minlat": 37.7281357,
+    "minlon": -0.9478156,
+    "maxlat": 37.7281812,
+    "maxlon": -0.9477689
+  },
+  "nodes": [
+    4054446735,
+    4054446736,
+    4054446737,
+    4054446738,
+    4054446735
+  ],
+  "geometry": [
+    { "lat": 37.7281730, "lon": -0.9478156 },
+    { "lat": 37.7281357, "lon": -0.9477996 },
+    { "lat": 37.7281439, "lon": -0.9477689 },
+    { "lat": 37.7281812, "lon": -0.9477849 },
+    { "lat": 37.7281730, "lon": -0.9478156 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 403058873,
+  "bounds": {
+    "minlat": 37.7457264,
+    "minlon": -0.9550581,
+    "maxlat": 37.7457741,
+    "maxlon": -0.9550018
+  },
+  "nodes": [
+    4054446739,
+    4054446740,
+    4054446741,
+    4054446742,
+    4054446739
+  ],
+  "geometry": [
+    { "lat": 37.7457741, "lon": -0.9550211 },
+    { "lat": 37.7457392, "lon": -0.9550018 },
+    { "lat": 37.7457264, "lon": -0.9550388 },
+    { "lat": 37.7457613, "lon": -0.9550581 },
+    { "lat": 37.7457741, "lon": -0.9550211 }
+  ],
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 403073865,
+  "bounds": {
+    "minlat": 38.0767243,
+    "minlon": -1.1994516,
+    "maxlat": 38.0777322,
+    "maxlon": -1.1983170
+  },
+  "nodes": [
+    4054562036,
+    4054562039,
+    4054562035,
+    4054562033,
+    4054562036
+  ],
+  "geometry": [
+    { "lat": 38.0773304, "lon": -1.1994516 },
+    { "lat": 38.0777322, "lon": -1.1987885 },
+    { "lat": 38.0772489, "lon": -1.1983170 },
+    { "lat": 38.0767243, "lon": -1.1988512 },
+    { "lat": 38.0773304, "lon": -1.1994516 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Molina de Segura",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 403073884,
+  "bounds": {
+    "minlat": 38.2475122,
+    "minlon": -1.4082381,
+    "maxlat": 38.2482787,
+    "maxlon": -1.4074245
+  },
+  "nodes": [
+    4054562608,
+    4054562607,
+    4054562603,
+    4054562604,
+    4054562605,
+    4054562606,
+    4054562608
+  ],
+  "geometry": [
+    { "lat": 38.2482787, "lon": -1.4080719 },
+    { "lat": 38.2481375, "lon": -1.4074245 },
+    { "lat": 38.2475122, "lon": -1.4076455 },
+    { "lat": 38.2476414, "lon": -1.4082381 },
+    { "lat": 38.2478604, "lon": -1.4081607 },
+    { "lat": 38.2478723, "lon": -1.4082156 },
+    { "lat": 38.2482787, "lon": -1.4080719 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Cieza",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 403081588,
+  "bounds": {
+    "minlat": 38.2635349,
+    "minlon": -1.6782060,
+    "maxlat": 38.2644596,
+    "maxlon": -1.6764269
+  },
+  "nodes": [
+    4054628582,
+    4054628575,
+    4054628572,
+    4054628573,
+    4054628577,
+    4054628578,
+    2063319230,
+    4054628584,
+    4054628583,
+    4054628582
+  ],
+  "geometry": [
+    { "lat": 38.2643979, "lon": -1.6766248 },
+    { "lat": 38.2638798, "lon": -1.6764269 },
+    { "lat": 38.2635349, "lon": -1.6779530 },
+    { "lat": 38.2636333, "lon": -1.6780704 },
+    { "lat": 38.2640280, "lon": -1.6782060 },
+    { "lat": 38.2640850, "lon": -1.6781968 },
+    { "lat": 38.2641615, "lon": -1.6780930 },
+    { "lat": 38.2644596, "lon": -1.6767842 },
+    { "lat": 38.2644454, "lon": -1.6766724 },
+    { "lat": 38.2643979, "lon": -1.6766248 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "name": "Subestación Calasparra",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 403316584,
+  "bounds": {
+    "minlat": 37.6104847,
+    "minlon": -0.9831261,
+    "maxlat": 37.6105373,
+    "maxlon": -0.9830424
+  },
+  "nodes": [
+    4056754240,
+    4056754241,
+    4056754604,
+    4056754276,
+    4056754240
+  ],
+  "geometry": [
+    { "lat": 37.6105367, "lon": -0.9831261 },
+    { "lat": 37.6105373, "lon": -0.9830430 },
+    { "lat": 37.6104853, "lon": -0.9830424 },
+    { "lat": 37.6104847, "lon": -0.9831255 },
+    { "lat": 37.6105367, "lon": -0.9831261 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "street_cabinet": "power",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 404792075,
+  "bounds": {
+    "minlat": 38.4661154,
+    "minlon": -1.3310965,
+    "maxlat": 38.4669992,
+    "maxlon": -1.3303735
+  },
+  "nodes": [
+    4070490418,
+    4070490420,
+    11704491870,
+    4070490426,
+    4070490427,
+    4070490429,
+    4070490428,
+    4070490425,
+    11704491868,
+    4070490424,
+    4070490422,
+    4070490421,
+    4070490418
+  ],
+  "geometry": [
+    { "lat": 38.4661154, "lon": -1.3308929 },
+    { "lat": 38.4662795, "lon": -1.3303735 },
+    { "lat": 38.4667336, "lon": -1.3306584 },
+    { "lat": 38.4669023, "lon": -1.3307643 },
+    { "lat": 38.4669731, "lon": -1.3308381 },
+    { "lat": 38.4669992, "lon": -1.3308928 },
+    { "lat": 38.4669899, "lon": -1.3309475 },
+    { "lat": 38.4667541, "lon": -1.3310463 },
+    { "lat": 38.4666575, "lon": -1.3310851 },
+    { "lat": 38.4665613, "lon": -1.3310965 },
+    { "lat": 38.4664854, "lon": -1.3309977 },
+    { "lat": 38.4663647, "lon": -1.3310374 },
+    { "lat": 38.4661154, "lon": -1.3308929 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 420001680,
+  "bounds": {
+    "minlat": 37.7239637,
+    "minlon": -1.3672725,
+    "maxlat": 37.7248821,
+    "maxlon": -1.3660620
+  },
+  "nodes": [
+    4199874082,
+    4199874074,
+    4199874078,
+    4199874189,
+    4199874087,
+    4199874083,
+    4199874082
+  ],
+  "geometry": [
+    { "lat": 37.7244691, "lon": -1.3672725 },
+    { "lat": 37.7239637, "lon": -1.3670256 },
+    { "lat": 37.7242582, "lon": -1.3660620 },
+    { "lat": 37.7248821, "lon": -1.3663667 },
+    { "lat": 37.7246988, "lon": -1.3669664 },
+    { "lat": 37.7245804, "lon": -1.3669085 },
+    { "lat": 37.7244691, "lon": -1.3672725 }
+  ],
+  "tags": {
+    "name": "Subestación Límite",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 463523371,
+  "bounds": {
+    "minlat": 37.7951016,
+    "minlon": -1.5720533,
+    "maxlat": 37.7953055,
+    "maxlon": -1.5717825
+  },
+  "nodes": [
+    4587890903,
+    4587890904,
+    4587890905,
+    4587890906,
+    4587890903
+  ],
+  "geometry": [
+    { "lat": 37.7952566, "lon": -1.5720533 },
+    { "lat": 37.7953055, "lon": -1.5718840 },
+    { "lat": 37.7951561, "lon": -1.5717825 },
+    { "lat": 37.7951016, "lon": -1.5719786 },
+    { "lat": 37.7952566, "lon": -1.5720533 }
+  ],
+  "tags": {
+    "operator": "Telefónica",
+    "operator:wikidata": "Q160229",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 475986023,
+  "bounds": {
+    "minlat": 37.6644359,
+    "minlon": -1.0123705,
+    "maxlat": 37.6644892,
+    "maxlon": -1.0123151
+  },
+  "nodes": [
+    4696601029,
+    4696601028,
+    4696601027,
+    4696601026,
+    4696601029
+  ],
+  "geometry": [
+    { "lat": 37.6644892, "lon": -1.0123518 },
+    { "lat": 37.6644794, "lon": -1.0123705 },
+    { "lat": 37.6644359, "lon": -1.0123338 },
+    { "lat": 37.6644458, "lon": -1.0123151 },
+    { "lat": 37.6644892, "lon": -1.0123518 }
+  ],
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 477355081,
+  "bounds": {
+    "minlat": 37.5583717,
+    "minlon": -1.6931190,
+    "maxlat": 37.5584567,
+    "maxlon": -1.6930171
+  },
+  "nodes": [
+    4707251820,
+    4707251821,
+    4707251822,
+    4707251823,
+    4707251820
+  ],
+  "geometry": [
+    { "lat": 37.5584004, "lon": -1.6931190 },
+    { "lat": 37.5584567, "lon": -1.6930519 },
+    { "lat": 37.5584291, "lon": -1.6930171 },
+    { "lat": 37.5583717, "lon": -1.6930814 },
+    { "lat": 37.5584004, "lon": -1.6931190 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 487229512,
+  "bounds": {
+    "minlat": 37.5983604,
+    "minlon": -0.9704594,
+    "maxlat": 37.5984630,
+    "maxlon": -0.9703311
+  },
+  "nodes": [
+    4797402342,
+    4797402341,
+    4797402340,
+    4797402339,
+    4797402342
+  ],
+  "geometry": [
+    { "lat": 37.5983867, "lon": -0.9704594 },
+    { "lat": 37.5983604, "lon": -0.9703685 },
+    { "lat": 37.5984363, "lon": -0.9703311 },
+    { "lat": 37.5984630, "lon": -0.9704225 },
+    { "lat": 37.5983867, "lon": -0.9704594 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 530959018,
+  "bounds": {
+    "minlat": 38.0170423,
+    "minlon": -1.1053888,
+    "maxlat": 38.0186538,
+    "maxlon": -1.1040504
+  },
+  "nodes": [
+    5154723392,
+    5154723393,
+    5154723394,
+    5154723395,
+    5154723392
+  ],
+  "geometry": [
+    { "lat": 38.0184624, "lon": -1.1053888 },
+    { "lat": 38.0186538, "lon": -1.1046204 },
+    { "lat": 38.0172337, "lon": -1.1040504 },
+    { "lat": 38.0170423, "lon": -1.1048188 },
+    { "lat": 38.0184624, "lon": -1.1053888 }
+  ],
+  "tags": {
+    "name": "Subestación San Félix",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 531841671,
+  "bounds": {
+    "minlat": 37.9899632,
+    "minlon": -1.5088501,
+    "maxlat": 37.9900318,
+    "maxlon": -1.5087611
+  },
+  "nodes": [
+    5162053048,
+    5162053049,
+    5162053050,
+    5162053051,
+    5162053048
+  ],
+  "geometry": [
+    { "lat": 37.9900318, "lon": -1.5088264 },
+    { "lat": 37.9900053, "lon": -1.5088501 },
+    { "lat": 37.9899632, "lon": -1.5087948 },
+    { "lat": 37.9899850, "lon": -1.5087611 },
+    { "lat": 37.9900318, "lon": -1.5088264 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 535817803,
+  "bounds": {
+    "minlat": 38.0270019,
+    "minlon": -1.4978900,
+    "maxlat": 38.0276818,
+    "maxlon": -1.4971592
+  },
+  "nodes": [
+    5192332812,
+    5192332813,
+    5192332814,
+    5192332815,
+    5192332812
+  ],
+  "geometry": [
+    { "lat": 38.0276818, "lon": -1.4978872 },
+    { "lat": 38.0276493, "lon": -1.4971592 },
+    { "lat": 38.0272843, "lon": -1.4971647 },
+    { "lat": 38.0270019, "lon": -1.4978900 },
+    { "lat": 38.0276818, "lon": -1.4978872 }
+  ],
+  "tags": {
+    "name": "Subestación Mula",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 546234256,
+  "bounds": {
+    "minlat": 38.1892738,
+    "minlon": -1.3369610,
+    "maxlat": 38.1905422,
+    "maxlon": -1.3350025
+  },
+  "nodes": [
+    5278822644,
+    5278822645,
+    7237255651,
+    7237255652,
+    7237255653,
+    5278822646,
+    5278822647,
+    5278822648,
+    7237255647,
+    7237255648,
+    7237255649,
+    7237255650,
+    5278822644
+  ],
+  "geometry": [
+    { "lat": 38.1897711, "lon": -1.3369610 },
+    { "lat": 38.1900243, "lon": -1.3368159 },
+    { "lat": 38.1901746, "lon": -1.3366548 },
+    { "lat": 38.1903172, "lon": -1.3364707 },
+    { "lat": 38.1904263, "lon": -1.3362892 },
+    { "lat": 38.1905422, "lon": -1.3360468 },
+    { "lat": 38.1897854, "lon": -1.3350025 },
+    { "lat": 38.1892738, "lon": -1.3354576 },
+    { "lat": 38.1894907, "lon": -1.3358274 },
+    { "lat": 38.1895642, "lon": -1.3360516 },
+    { "lat": 38.1896082, "lon": -1.3362465 },
+    { "lat": 38.1896397, "lon": -1.3364573 },
+    { "lat": 38.1897711, "lon": -1.3369610 }
+  ],
+  "tags": {
+    "name": "Subestación Blanca",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;66000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 553301600,
+  "bounds": {
+    "minlat": 37.9735402,
+    "minlon": -1.0726887,
+    "maxlat": 37.9736360,
+    "maxlon": -1.0725970
+  },
+  "nodes": [
+    5341117472,
+    5341117471,
+    5341117470,
+    5341117469,
+    5341117472
+  ],
+  "geometry": [
+    { "lat": 37.9736196, "lon": -1.0726887 },
+    { "lat": 37.9736360, "lon": -1.0726399 },
+    { "lat": 37.9735566, "lon": -1.0725970 },
+    { "lat": 37.9735402, "lon": -1.0726459 },
+    { "lat": 37.9736196, "lon": -1.0726887 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 561558232,
+  "bounds": {
+    "minlat": 37.6527796,
+    "minlon": -1.0262803,
+    "maxlat": 37.6538313,
+    "maxlon": -1.0255158
+  },
+  "nodes": [
+    5414585278,
+    5414585279,
+    7261490574,
+    7261490575,
+    5414585280,
+    5414585281,
+    5414585282,
+    5414585278
+  ],
+  "geometry": [
+    { "lat": 37.6537344, "lon": -1.0261430 },
+    { "lat": 37.6538313, "lon": -1.0260151 },
+    { "lat": 37.6537877, "lon": -1.0257961 },
+    { "lat": 37.6538249, "lon": -1.0257129 },
+    { "lat": 37.6536629, "lon": -1.0255158 },
+    { "lat": 37.6527796, "lon": -1.0257903 },
+    { "lat": 37.6532825, "lon": -1.0262803 },
+    { "lat": 37.6537344, "lon": -1.0261430 }
+  ],
+  "tags": {
+    "name": "Subestación La Guía",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 581521534,
+  "bounds": {
+    "minlat": 37.9643083,
+    "minlon": -1.1354971,
+    "maxlat": 37.9653149,
+    "maxlon": -1.1347139
+  },
+  "nodes": [
+    5563881428,
+    5563881427,
+    5563881426,
+    5563881425,
+    5563881424,
+    5563881423,
+    5563881422,
+    5563881421,
+    5563881120,
+    5563881428
+  ],
+  "geometry": [
+    { "lat": 37.9650612, "lon": -1.1354837 },
+    { "lat": 37.9643083, "lon": -1.1351913 },
+    { "lat": 37.9644331, "lon": -1.1347139 },
+    { "lat": 37.9653149, "lon": -1.1350063 },
+    { "lat": 37.9652790, "lon": -1.1352691 },
+    { "lat": 37.9652409, "lon": -1.1354032 },
+    { "lat": 37.9652007, "lon": -1.1354515 },
+    { "lat": 37.9651500, "lon": -1.1354944 },
+    { "lat": 37.9651140, "lon": -1.1354971 },
+    { "lat": 37.9650612, "lon": -1.1354837 }
+  ],
+  "tags": {
+    "location": "indoor",
+    "name": "Subestación Murcia",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "rating": "100 MVA",
+    "voltage": "220000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 586686529,
+  "bounds": {
+    "minlat": 37.8280311,
+    "minlon": -0.8073262,
+    "maxlat": 37.8280903,
+    "maxlon": -0.8072507
+  },
+  "nodes": [
+    5605120439,
+    5605120438,
+    5605120440,
+    5605120441,
+    5605120442,
+    5605120439
+  ],
+  "geometry": [
+    { "lat": 37.8280640, "lon": -0.8073262 },
+    { "lat": 37.8280475, "lon": -0.8073103 },
+    { "lat": 37.8280311, "lon": -0.8072944 },
+    { "lat": 37.8280573, "lon": -0.8072507 },
+    { "lat": 37.8280903, "lon": -0.8072825 },
+    { "lat": 37.8280640, "lon": -0.8073262 }
+  ],
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 587931418,
+  "bounds": {
+    "minlat": 37.7968834,
+    "minlon": -0.9594408,
+    "maxlat": 37.7980212,
+    "maxlon": -0.9579910
+  },
+  "nodes": [
+    5615829146,
+    7249957814,
+    5615829147,
+    10212728616,
+    5615829148,
+    5615829149,
+    5615829146
+  ],
+  "geometry": [
+    { "lat": 37.7978387, "lon": -0.9594408 },
+    { "lat": 37.7978801, "lon": -0.9592237 },
+    { "lat": 37.7980212, "lon": -0.9588688 },
+    { "lat": 37.7974387, "lon": -0.9582882 },
+    { "lat": 37.7971405, "lon": -0.9579910 },
+    { "lat": 37.7968834, "lon": -0.9584029 },
+    { "lat": 37.7978387, "lon": -0.9594408 }
+  ],
+  "tags": {
+    "name": "Subestación Balsicas",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "220000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 624239760,
+  "bounds": {
+    "minlat": 38.0573521,
+    "minlon": -1.1477187,
+    "maxlat": 38.0579111,
+    "maxlon": -1.1468682
+  },
+  "nodes": [
+    5894703379,
+    5894703380,
+    5894703381,
+    5894703382,
+    5894703383,
+    5894703384,
+    5894703379
+  ],
+  "geometry": [
+    { "lat": 38.0579111, "lon": -1.1476872 },
+    { "lat": 38.0578251, "lon": -1.1477187 },
+    { "lat": 38.0577348, "lon": -1.1477125 },
+    { "lat": 38.0574529, "lon": -1.1477072 },
+    { "lat": 38.0573521, "lon": -1.1469681 },
+    { "lat": 38.0577984, "lon": -1.1468682 },
+    { "lat": 38.0579111, "lon": -1.1476872 }
+  ],
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "metal",
+    "name": "Subestación Condomina",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 655356728,
+  "bounds": {
+    "minlat": 37.6386733,
+    "minlon": -0.9034096,
+    "maxlat": 37.6387194,
+    "maxlon": -0.9033473
+  },
+  "nodes": [
+    6140356821,
+    6140356823,
+    6140357521,
+    6140357494,
+    6140356821
+  ],
+  "geometry": [
+    { "lat": 37.6387194, "lon": -0.9033673 },
+    { "lat": 37.6386967, "lon": -0.9033473 },
+    { "lat": 37.6386733, "lon": -0.9033896 },
+    { "lat": 37.6386960, "lon": -0.9034096 },
+    { "lat": 37.6387194, "lon": -0.9033673 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 655357883,
+  "bounds": {
+    "minlat": 37.6206077,
+    "minlon": -0.9174015,
+    "maxlat": 37.6207003,
+    "maxlon": -0.9172786
+  },
+  "nodes": [
+    6140368460,
+    6140368469,
+    6140368461,
+    6140368467,
+    6140368460
+  ],
+  "geometry": [
+    { "lat": 37.6206077, "lon": -0.9173658 },
+    { "lat": 37.6206677, "lon": -0.9174015 },
+    { "lat": 37.6207003, "lon": -0.9173143 },
+    { "lat": 37.6206403, "lon": -0.9172786 },
+    { "lat": 37.6206077, "lon": -0.9173658 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 655357884,
+  "bounds": {
+    "minlat": 37.6220083,
+    "minlon": -0.9187852,
+    "maxlat": 37.6220292,
+    "maxlon": -0.9187587
+  },
+  "nodes": [
+    6140368463,
+    6140368445,
+    6140368448,
+    6140368468,
+    6140368463
+  ],
+  "geometry": [
+    { "lat": 37.6220292, "lon": -0.9187733 },
+    { "lat": 37.6220192, "lon": -0.9187587 },
+    { "lat": 37.6220083, "lon": -0.9187706 },
+    { "lat": 37.6220182, "lon": -0.9187852 },
+    { "lat": 37.6220292, "lon": -0.9187733 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 665825629,
+  "bounds": {
+    "minlat": 38.4843830,
+    "minlon": -1.4099508,
+    "maxlat": 38.4849261,
+    "maxlon": -1.4092581
+  },
+  "nodes": [
+    6232745462,
+    6232745461,
+    6232745460,
+    6232745459,
+    6232745462
+  ],
+  "geometry": [
+    { "lat": 38.4849261, "lon": -1.4099387 },
+    { "lat": 38.4843924, "lon": -1.4099508 },
+    { "lat": 38.4843830, "lon": -1.4092701 },
+    { "lat": 38.4849167, "lon": -1.4092581 },
+    { "lat": 38.4849261, "lon": -1.4099387 }
+  ],
+  "tags": {
+    "power": "substation",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 675714143,
+  "bounds": {
+    "minlat": 38.5206471,
+    "minlon": -1.3346737,
+    "maxlat": 38.5229426,
+    "maxlon": -1.3320070
+  },
+  "nodes": [
+    6327946484,
+    6327946483,
+    6327946482,
+    6327946481,
+    6327946480,
+    6327946479,
+    6327946484
+  ],
+  "geometry": [
+    { "lat": 38.5229426, "lon": -1.3337943 },
+    { "lat": 38.5216314, "lon": -1.3346737 },
+    { "lat": 38.5212144, "lon": -1.3336578 },
+    { "lat": 38.5209638, "lon": -1.3338259 },
+    { "lat": 38.5206471, "lon": -1.3330545 },
+    { "lat": 38.5222088, "lon": -1.3320070 },
+    { "lat": 38.5229426, "lon": -1.3337943 }
+  ],
+  "tags": {
+    "name": "Subestación Peñarrubia",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000"
+  }
+},
+{
+  "type": "way",
+  "id": 709179897,
+  "bounds": {
+    "minlat": 38.3684066,
+    "minlon": -1.2700369,
+    "maxlat": 38.3691724,
+    "maxlon": -1.2691045
+  },
+  "nodes": [
+    6665189949,
+    6665189950,
+    6665189951,
+    7237329013,
+    7237329010,
+    6665189952,
+    6665189949
+  ],
+  "geometry": [
+    { "lat": 38.3691724, "lon": -1.2695612 },
+    { "lat": 38.3689039, "lon": -1.2700369 },
+    { "lat": 38.3684066, "lon": -1.2695802 },
+    { "lat": 38.3684481, "lon": -1.2695067 },
+    { "lat": 38.3686008, "lon": -1.2692362 },
+    { "lat": 38.3686752, "lon": -1.2691045 },
+    { "lat": 38.3691724, "lon": -1.2695612 }
+  ],
+  "tags": {
+    "name": "Subestación Luzentia",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 769729419,
+  "bounds": {
+    "minlat": 37.7632742,
+    "minlon": -1.5035377,
+    "maxlat": 37.7633909,
+    "maxlon": -1.5033907
+  },
+  "nodes": [
+    7185062653,
+    7185062654,
+    7185062655,
+    7185062656,
+    7185062653
+  ],
+  "geometry": [
+    { "lat": 37.7633149, "lon": -1.5035377 },
+    { "lat": 37.7632742, "lon": -1.5034429 },
+    { "lat": 37.7633503, "lon": -1.5033907 },
+    { "lat": 37.7633909, "lon": -1.5034855 },
+    { "lat": 37.7633149, "lon": -1.5035377 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 769783428,
+  "bounds": {
+    "minlat": 37.7672350,
+    "minlon": -1.4946377,
+    "maxlat": 37.7673077,
+    "maxlon": -1.4945664
+  },
+  "nodes": [
+    7185613889,
+    7185613890,
+    7185613891,
+    7185613892,
+    7185613889
+  ],
+  "geometry": [
+    { "lat": 37.7672857, "lon": -1.4946377 },
+    { "lat": 37.7672350, "lon": -1.4945954 },
+    { "lat": 37.7672589, "lon": -1.4945664 },
+    { "lat": 37.7673077, "lon": -1.4946087 },
+    { "lat": 37.7672857, "lon": -1.4946377 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 772002801,
+  "bounds": {
+    "minlat": 37.9605336,
+    "minlon": -1.3793770,
+    "maxlat": 37.9616840,
+    "maxlon": -1.3779500
+  },
+  "nodes": [
+    7207025902,
+    7207025901,
+    7207025900,
+    7207025899,
+    7207025898,
+    7207025756,
+    7207025897,
+    7207025902
+  ],
+  "geometry": [
+    { "lat": 37.9605336, "lon": -1.3785347 },
+    { "lat": 37.9610433, "lon": -1.3779500 },
+    { "lat": 37.9614134, "lon": -1.3784677 },
+    { "lat": 37.9615635, "lon": -1.3785911 },
+    { "lat": 37.9616840, "lon": -1.3787681 },
+    { "lat": 37.9614820, "lon": -1.3789989 },
+    { "lat": 37.9611511, "lon": -1.3793770 },
+    { "lat": 37.9605336, "lon": -1.3785347 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "operator": "Red Eléctrica de España",
+    "operator:short": "REE",
+    "operator:wikidata": "Q1551220",
+    "operator:wikipedia": "es:Red Eléctrica de España",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000"
+  }
+},
+{
+  "type": "way",
+  "id": 772005629,
+  "bounds": {
+    "minlat": 37.9554752,
+    "minlon": -1.4108134,
+    "maxlat": 37.9560278,
+    "maxlon": -1.4102455
+  },
+  "nodes": [
+    7207034153,
+    7207034152,
+    7207034151,
+    7207034150,
+    7207034153
+  ],
+  "geometry": [
+    { "lat": 37.9559610, "lon": -1.4108134 },
+    { "lat": 37.9560278, "lon": -1.4103607 },
+    { "lat": 37.9555420, "lon": -1.4102455 },
+    { "lat": 37.9554752, "lon": -1.4106983 },
+    { "lat": 37.9559610, "lon": -1.4108134 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "location": "outdoor",
+    "power": "substation",
+    "rating": "200 MVA",
+    "substation": "generation",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 772400215,
+  "bounds": {
+    "minlat": 37.5450881,
+    "minlon": -1.7532137,
+    "maxlat": 37.5458258,
+    "maxlon": -1.7517385
+  },
+  "nodes": [
+    7211382481,
+    7211382480,
+    7211382479,
+    7211382478,
+    7211382481
+  ],
+  "geometry": [
+    { "lat": 37.5458258, "lon": -1.7531040 },
+    { "lat": 37.5456615, "lon": -1.7517385 },
+    { "lat": 37.5450881, "lon": -1.7518482 },
+    { "lat": 37.5452525, "lon": -1.7532137 },
+    { "lat": 37.5458258, "lon": -1.7531040 }
+  ],
+  "tags": {
+    "name": "Subestación Nogalte",
+    "not:operator:wikidata": "Q1437502",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 772400225,
+  "bounds": {
+    "minlat": 37.4214408,
+    "minlon": -1.5969648,
+    "maxlat": 37.4220693,
+    "maxlon": -1.5963356
+  },
+  "nodes": [
+    7211402349,
+    7211402348,
+    7211402347,
+    7211402346,
+    7211402349
+  ],
+  "geometry": [
+    { "lat": 37.4214488, "lon": -1.5969648 },
+    { "lat": 37.4214408, "lon": -1.5963482 },
+    { "lat": 37.4220614, "lon": -1.5963356 },
+    { "lat": 37.4220693, "lon": -1.5969521 },
+    { "lat": 37.4214488, "lon": -1.5969648 }
+  ],
+  "tags": {
+    "name": "Subestación Los Ateros",
+    "power": "substation",
+    "rating": "40 MVA",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 772400244,
+  "bounds": {
+    "minlat": 37.4360433,
+    "minlon": -1.7206354,
+    "maxlat": 37.4380037,
+    "maxlon": -1.7172935
+  },
+  "nodes": [
+    7211402448,
+    7211402447,
+    7211402446,
+    7211402445,
+    7211402444,
+    7211402443,
+    7211402442,
+    7211402441,
+    7211402440,
+    7211402439,
+    7211402448
+  ],
+  "geometry": [
+    { "lat": 37.4377868, "lon": -1.7206354 },
+    { "lat": 37.4380037, "lon": -1.7174006 },
+    { "lat": 37.4379058, "lon": -1.7172935 },
+    { "lat": 37.4365918, "lon": -1.7173149 },
+    { "lat": 37.4361326, "lon": -1.7177594 },
+    { "lat": 37.4360433, "lon": -1.7191358 },
+    { "lat": 37.4363154, "lon": -1.7198320 },
+    { "lat": 37.4364855, "lon": -1.7199874 },
+    { "lat": 37.4367237, "lon": -1.7199981 },
+    { "lat": 37.4367194, "lon": -1.7205604 },
+    { "lat": 37.4377868, "lon": -1.7206354 }
+  ],
+  "tags": {
+    "name": "Subestación Carril",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000"
+  }
+},
+{
+  "type": "way",
+  "id": 772494656,
+  "bounds": {
+    "minlat": 37.6648941,
+    "minlon": -1.7133576,
+    "maxlat": 37.6658071,
+    "maxlon": -1.7126387
+  },
+  "nodes": [
+    7212280377,
+    7212280376,
+    7212280375,
+    7212280374,
+    7212280373,
+    7212280372,
+    7212280371,
+    7212280370,
+    7212280377
+  ],
+  "geometry": [
+    { "lat": 37.6648941, "lon": -1.7129740 },
+    { "lat": 37.6655693, "lon": -1.7126387 },
+    { "lat": 37.6657095, "lon": -1.7126817 },
+    { "lat": 37.6658071, "lon": -1.7130035 },
+    { "lat": 37.6651532, "lon": -1.7133522 },
+    { "lat": 37.6650958, "lon": -1.7133576 },
+    { "lat": 37.6650364, "lon": -1.7133307 },
+    { "lat": 37.6649854, "lon": -1.7132556 },
+    { "lat": 37.6648941, "lon": -1.7129740 }
+  ],
+  "tags": {
+    "name": "Subestación Hípica",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 772677412,
+  "bounds": {
+    "minlat": 37.7142737,
+    "minlon": -1.7175173,
+    "maxlat": 37.7146702,
+    "maxlon": -1.7168941
+  },
+  "nodes": [
+    7213755476,
+    7213755475,
+    7213755474,
+    7213755473,
+    7213755476
+  ],
+  "geometry": [
+    { "lat": 37.7142737, "lon": -1.7174020 },
+    { "lat": 37.7145063, "lon": -1.7168941 },
+    { "lat": 37.7146702, "lon": -1.7170150 },
+    { "lat": 37.7144510, "lon": -1.7175173 },
+    { "lat": 37.7142737, "lon": -1.7174020 }
+  ],
+  "tags": {
+    "name": "Subestación Serrata-Aquagest",
+    "power": "substation",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 772677422,
+  "bounds": {
+    "minlat": 37.7262060,
+    "minlon": -1.6965049,
+    "maxlat": 37.7267475,
+    "maxlon": -1.6958187
+  },
+  "nodes": [
+    7213770253,
+    7213770252,
+    7213770251,
+    7213770250,
+    7213770253
+  ],
+  "geometry": [
+    { "lat": 37.7265976, "lon": -1.6965049 },
+    { "lat": 37.7267475, "lon": -1.6960072 },
+    { "lat": 37.7263559, "lon": -1.6958187 },
+    { "lat": 37.7262060, "lon": -1.6963164 },
+    { "lat": 37.7265976, "lon": -1.6965049 }
+  ],
+  "tags": {
+    "name": "Subestación Sierra de la Tercia",
+    "power": "substation",
+    "substation": "generation",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 772755630,
+  "bounds": {
+    "minlat": 37.7571598,
+    "minlon": -1.4826180,
+    "maxlat": 37.7578170,
+    "maxlon": -1.4816793
+  },
+  "nodes": [
+    7214614260,
+    7214614259,
+    7214614258,
+    7214614257,
+    7214614256,
+    7214614255,
+    7214614260
+  ],
+  "geometry": [
+    { "lat": 37.7578170, "lon": -1.4821142 },
+    { "lat": 37.7573762, "lon": -1.4816793 },
+    { "lat": 37.7572408, "lon": -1.4818943 },
+    { "lat": 37.7572833, "lon": -1.4819614 },
+    { "lat": 37.7571598, "lon": -1.4820840 },
+    { "lat": 37.7574811, "lon": -1.4826180 },
+    { "lat": 37.7578170, "lon": -1.4821142 }
+  ],
+  "tags": {
+    "name": "Subestación Totana",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 772796717,
+  "bounds": {
+    "minlat": 37.8099831,
+    "minlon": -1.3896589,
+    "maxlat": 37.8114285,
+    "maxlon": -1.3880090
+  },
+  "nodes": [
+    7215166736,
+    7215166735,
+    7215166734,
+    7215166733,
+    7215166732,
+    7215166731,
+    7215166730,
+    7215166736
+  ],
+  "geometry": [
+    { "lat": 37.8099831, "lon": -1.3890057 },
+    { "lat": 37.8103236, "lon": -1.3883367 },
+    { "lat": 37.8105471, "lon": -1.3880090 },
+    { "lat": 37.8111217, "lon": -1.3888194 },
+    { "lat": 37.8112352, "lon": -1.3886981 },
+    { "lat": 37.8114285, "lon": -1.3889810 },
+    { "lat": 37.8107759, "lon": -1.3896589 },
+    { "lat": 37.8099831, "lon": -1.3890057 }
+  ],
+  "tags": {
+    "name": "Subestación Alhama",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 773883758,
+  "bounds": {
+    "minlat": 38.1601779,
+    "minlon": -1.3521887,
+    "maxlat": 38.1607093,
+    "maxlon": -1.3516255
+  },
+  "nodes": [
+    7223630626,
+    7223630625,
+    7223630624,
+    7223630623,
+    7223630622,
+    7223630621,
+    7223630626
+  ],
+  "geometry": [
+    { "lat": 38.1601779, "lon": -1.3518722 },
+    { "lat": 38.1603118, "lon": -1.3516255 },
+    { "lat": 38.1607093, "lon": -1.3519634 },
+    { "lat": 38.1605986, "lon": -1.3521887 },
+    { "lat": 38.1604531, "lon": -1.3521270 },
+    { "lat": 38.1602221, "lon": -1.3519326 },
+    { "lat": 38.1601779, "lon": -1.3518722 }
+  ],
+  "tags": {
+    "operator": "Confederación Hidrográfica del Segura",
+    "power": "substation",
+    "substation": "generation",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 774716133,
+  "bounds": {
+    "minlat": 37.8755359,
+    "minlon": -1.3919458,
+    "maxlat": 37.8760422,
+    "maxlon": -1.3913454
+  },
+  "nodes": [
+    7228187775,
+    7228187774,
+    7228187773,
+    7228187772,
+    7228187775
+  ],
+  "geometry": [
+    { "lat": 37.8755359, "lon": -1.3916205 },
+    { "lat": 37.8756979, "lon": -1.3913454 },
+    { "lat": 37.8760422, "lon": -1.3916707 },
+    { "lat": 37.8758802, "lon": -1.3919458 },
+    { "lat": 37.8755359, "lon": -1.3916205 }
+  ],
+  "tags": {
+    "power": "substation",
+    "substation": "generation",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 774723052,
+  "bounds": {
+    "minlat": 38.0341294,
+    "minlon": -1.2843674,
+    "maxlat": 38.0351107,
+    "maxlon": -1.2833730
+  },
+  "nodes": [
+    7228270164,
+    7228270163,
+    7228270162,
+    7228270161,
+    7228270160,
+    7228270159,
+    7228270164
+  ],
+  "geometry": [
+    { "lat": 38.0348147, "lon": -1.2833730 },
+    { "lat": 38.0341294, "lon": -1.2838843 },
+    { "lat": 38.0343274, "lon": -1.2843674 },
+    { "lat": 38.0346189, "lon": -1.2841584 },
+    { "lat": 38.0346768, "lon": -1.2842940 },
+    { "lat": 38.0351107, "lon": -1.2839804 },
+    { "lat": 38.0348147, "lon": -1.2833730 }
+  ],
+  "tags": {
+    "name": "Subestación Torres de Cotillas",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 774742981,
+  "bounds": {
+    "minlat": 38.0325190,
+    "minlon": -1.2551275,
+    "maxlat": 38.0327413,
+    "maxlon": -1.2549638
+  },
+  "nodes": [
+    7228439054,
+    7228439053,
+    7228439052,
+    7228439051,
+    7228439054
+  ],
+  "geometry": [
+    { "lat": 38.0325190, "lon": -1.2549996 },
+    { "lat": 38.0327277, "lon": -1.2549638 },
+    { "lat": 38.0327413, "lon": -1.2550917 },
+    { "lat": 38.0325326, "lon": -1.2551275 },
+    { "lat": 38.0325190, "lon": -1.2549996 }
+  ],
+  "tags": {
+    "name": "Subestación Linasa",
+    "power": "substation",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 775096373,
+  "bounds": {
+    "minlat": 37.9550239,
+    "minlon": -1.4830771,
+    "maxlat": 37.9553291,
+    "maxlon": -1.4825228
+  },
+  "nodes": [
+    7231233469,
+    7231233468,
+    7231233467,
+    7231233466,
+    9327792501,
+    7231233469
+  ],
+  "geometry": [
+    { "lat": 37.9552152, "lon": -1.4830771 },
+    { "lat": 37.9550239, "lon": -1.4830043 },
+    { "lat": 37.9551378, "lon": -1.4825228 },
+    { "lat": 37.9553291, "lon": -1.4825956 },
+    { "lat": 37.9553190, "lon": -1.4826382 },
+    { "lat": 37.9552152, "lon": -1.4830771 }
+  ],
+  "tags": {
+    "name": "Subestación Repsol Pliego",
+    "power": "substation",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 775624289,
+  "bounds": {
+    "minlat": 38.1153429,
+    "minlon": -1.2935610,
+    "maxlat": 38.1159385,
+    "maxlon": -1.2928431
+  },
+  "nodes": [
+    1667361889,
+    7235843103,
+    7235843102,
+    7235843101,
+    7235843085,
+    7235843100,
+    7235843099,
+    1667361830,
+    7235843110,
+    1667361880,
+    1667361889
+  ],
+  "geometry": [
+    { "lat": 38.1159385, "lon": -1.2929429 },
+    { "lat": 38.1156231, "lon": -1.2928431 },
+    { "lat": 38.1155731, "lon": -1.2930880 },
+    { "lat": 38.1156346, "lon": -1.2931081 },
+    { "lat": 38.1156279, "lon": -1.2931420 },
+    { "lat": 38.1155758, "lon": -1.2934071 },
+    { "lat": 38.1153690, "lon": -1.2933462 },
+    { "lat": 38.1153429, "lon": -1.2934963 },
+    { "lat": 38.1155503, "lon": -1.2935610 },
+    { "lat": 38.1158446, "lon": -1.2933870 },
+    { "lat": 38.1159385, "lon": -1.2929429 }
+  ],
+  "tags": {
+    "name": "Subestación Archena",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 776028760,
+  "bounds": {
+    "minlat": 38.2876815,
+    "minlon": -1.6036702,
+    "maxlat": 38.2882307,
+    "maxlon": -1.6029241
+  },
+  "nodes": [
+    7239633346,
+    7239633345,
+    7239633344,
+    7239633343,
+    7239633346
+  ],
+  "geometry": [
+    { "lat": 38.2876815, "lon": -1.6029339 },
+    { "lat": 38.2882225, "lon": -1.6029241 },
+    { "lat": 38.2882307, "lon": -1.6036604 },
+    { "lat": 38.2876896, "lon": -1.6036702 },
+    { "lat": 38.2876815, "lon": -1.6029339 }
+  ],
+  "tags": {
+    "name": "Subestación Puerto Errado",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 776028771,
+  "bounds": {
+    "minlat": 38.2365969,
+    "minlon": -1.5587161,
+    "maxlat": 38.2370688,
+    "maxlon": -1.5575185
+  },
+  "nodes": [
+    7239633382,
+    7239633381,
+    7239633380,
+    7239633379,
+    7239633378,
+    7239633377,
+    7239633376,
+    7239633375,
+    7239633374,
+    7239633373,
+    7239633382
+  ],
+  "geometry": [
+    { "lat": 38.2370214, "lon": -1.5586799 },
+    { "lat": 38.2368202, "lon": -1.5587161 },
+    { "lat": 38.2366959, "lon": -1.5586786 },
+    { "lat": 38.2365969, "lon": -1.5585928 },
+    { "lat": 38.2367876, "lon": -1.5579531 },
+    { "lat": 38.2367970, "lon": -1.5575185 },
+    { "lat": 38.2370046, "lon": -1.5575641 },
+    { "lat": 38.2370688, "lon": -1.5582253 },
+    { "lat": 38.2370267, "lon": -1.5582307 },
+    { "lat": 38.2370383, "lon": -1.5584144 },
+    { "lat": 38.2370214, "lon": -1.5586799 }
+  ],
+  "tags": {
+    "name": "Subestación Almadenes",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;66000;20000;5000"
+  }
+},
+{
+  "type": "way",
+  "id": 776319478,
+  "bounds": {
+    "minlat": 38.1203900,
+    "minlon": -1.8327428,
+    "maxlat": 38.1216824,
+    "maxlon": -1.8309254
+  },
+  "nodes": [
+    7243314024,
+    7243314023,
+    7243314022,
+    7243314021,
+    7243314024
+  ],
+  "geometry": [
+    { "lat": 38.1203900, "lon": -1.8322282 },
+    { "lat": 38.1210878, "lon": -1.8309254 },
+    { "lat": 38.1216824, "lon": -1.8314400 },
+    { "lat": 38.1209846, "lon": -1.8327428 },
+    { "lat": 38.1203900, "lon": -1.8322282 }
+  ],
+  "tags": {
+    "name": "Subestación Lentisco",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "132000;66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 776319483,
+  "bounds": {
+    "minlat": 38.2651100,
+    "minlon": -1.7116047,
+    "maxlat": 38.2657816,
+    "maxlon": -1.7106020
+  },
+  "nodes": [
+    7243314159,
+    7243314158,
+    7243314140,
+    7243314141,
+    7243314157,
+    7243314156,
+    7243314155,
+    7243314154,
+    7243314153,
+    7243314152,
+    7243314151,
+    9809512572,
+    7243314150,
+    7243314149,
+    7243314148,
+    7243314147,
+    7243314146,
+    7243314145,
+    7243314144,
+    7243314143,
+    7243314142,
+    7243314159
+  ],
+  "geometry": [
+    { "lat": 38.2652825, "lon": -1.7112164 },
+    { "lat": 38.2651582, "lon": -1.7112438 },
+    { "lat": 38.2651412, "lon": -1.7111059 },
+    { "lat": 38.2651454, "lon": -1.7110629 },
+    { "lat": 38.2651100, "lon": -1.7107880 },
+    { "lat": 38.2652652, "lon": -1.7107613 },
+    { "lat": 38.2653541, "lon": -1.7106429 },
+    { "lat": 38.2655820, "lon": -1.7106020 },
+    { "lat": 38.2656446, "lon": -1.7111095 },
+    { "lat": 38.2656666, "lon": -1.7111046 },
+    { "lat": 38.2656733, "lon": -1.7111631 },
+    { "lat": 38.2657376, "lon": -1.7111532 },
+    { "lat": 38.2657594, "lon": -1.7111498 },
+    { "lat": 38.2657816, "lon": -1.7113848 },
+    { "lat": 38.2656958, "lon": -1.7114013 },
+    { "lat": 38.2657096, "lon": -1.7115123 },
+    { "lat": 38.2655872, "lon": -1.7115393 },
+    { "lat": 38.2655923, "lon": -1.7115771 },
+    { "lat": 38.2654671, "lon": -1.7116047 },
+    { "lat": 38.2654618, "lon": -1.7115653 },
+    { "lat": 38.2653338, "lon": -1.7115936 },
+    { "lat": 38.2652825, "lon": -1.7112164 }
+  ],
+  "tags": {
+    "name": "Subestación Cañaverosa",
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "power": "substation",
+    "voltage": "132000;66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 776583732,
+  "bounds": {
+    "minlat": 38.1139699,
+    "minlon": -1.8685375,
+    "maxlat": 38.1144467,
+    "maxlon": -1.8677957
+  },
+  "nodes": [
+    7245891755,
+    7245891754,
+    7245891753,
+    7245891752,
+    7245891749,
+    7245891755
+  ],
+  "geometry": [
+    { "lat": 38.1139699, "lon": -1.8679518 },
+    { "lat": 38.1142356, "lon": -1.8677957 },
+    { "lat": 38.1144467, "lon": -1.8683815 },
+    { "lat": 38.1141811, "lon": -1.8685375 },
+    { "lat": 38.1140377, "lon": -1.8681934 },
+    { "lat": 38.1139699, "lon": -1.8679518 }
+  ],
+  "tags": {
+    "name": "Subestación Caravaca",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 776821872,
+  "bounds": {
+    "minlat": 38.0515128,
+    "minlon": -1.6924672,
+    "maxlat": 38.0523112,
+    "maxlon": -1.6916853
+  },
+  "nodes": [
+    7248267683,
+    7248267682,
+    7248267681,
+    7248267680,
+    7248267679,
+    7248267678,
+    7248267677,
+    7248267683
+  ],
+  "geometry": [
+    { "lat": 38.0515128, "lon": -1.6923223 },
+    { "lat": 38.0516195, "lon": -1.6916853 },
+    { "lat": 38.0523080, "lon": -1.6918878 },
+    { "lat": 38.0523112, "lon": -1.6919898 },
+    { "lat": 38.0522267, "lon": -1.6922003 },
+    { "lat": 38.0520883, "lon": -1.6924323 },
+    { "lat": 38.0520134, "lon": -1.6924672 },
+    { "lat": 38.0515128, "lon": -1.6923223 }
+  ],
+  "tags": {
+    "name": "Subestación Bullas",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 776821878,
+  "bounds": {
+    "minlat": 38.0922517,
+    "minlon": -1.7776917,
+    "maxlat": 38.0927330,
+    "maxlon": -1.7770346
+  },
+  "nodes": [
+    7248279753,
+    7248279752,
+    7248279751,
+    7248279750,
+    7248279749,
+    7248279748,
+    7248279747,
+    7248279753
+  ],
+  "geometry": [
+    { "lat": 38.0922517, "lon": -1.7773819 },
+    { "lat": 38.0923330, "lon": -1.7771633 },
+    { "lat": 38.0926106, "lon": -1.7770346 },
+    { "lat": 38.0927330, "lon": -1.7775670 },
+    { "lat": 38.0923858, "lon": -1.7776917 },
+    { "lat": 38.0923583, "lon": -1.7775509 },
+    { "lat": 38.0922876, "lon": -1.7775750 },
+    { "lat": 38.0922517, "lon": -1.7773819 }
+  ],
+  "tags": {
+    "frequency": "50",
+    "name": "Subestación Cehegín",
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "power": "substation",
+    "voltage": "66000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 777446899,
+  "bounds": {
+    "minlat": 37.5640242,
+    "minlon": -0.9498815,
+    "maxlat": 37.5646419,
+    "maxlon": -0.9489696
+  },
+  "nodes": [
+    7254929902,
+    7254929901,
+    7254929900,
+    7254929899,
+    7254929898,
+    7254929897,
+    7254929896,
+    7254929895,
+    7254929894,
+    7254929902
+  ],
+  "geometry": [
+    { "lat": 37.5644441, "lon": -0.9498815 },
+    { "lat": 37.5642081, "lon": -0.9498614 },
+    { "lat": 37.5640370, "lon": -0.9495932 },
+    { "lat": 37.5641029, "lon": -0.9495074 },
+    { "lat": 37.5640242, "lon": -0.9494148 },
+    { "lat": 37.5640923, "lon": -0.9491681 },
+    { "lat": 37.5643485, "lon": -0.9489696 },
+    { "lat": 37.5646419, "lon": -0.9495208 },
+    { "lat": 37.5645706, "lon": -0.9497447 },
+    { "lat": 37.5644441, "lon": -0.9498815 }
+  ],
+  "tags": {
+    "name": "Subestación Fausita",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "voltage": "400000;220000;132000;66000;20000;11000"
+  }
+},
+{
+  "type": "way",
+  "id": 778049918,
+  "bounds": {
+    "minlat": 37.6726619,
+    "minlon": -1.5218643,
+    "maxlat": 37.6730498,
+    "maxlon": -1.5212547
+  },
+  "nodes": [
+    7261532751,
+    7261532734,
+    7261532750,
+    7261532749,
+    7261532748,
+    7261532751
+  ],
+  "geometry": [
+    { "lat": 37.6727552, "lon": -1.5212547 },
+    { "lat": 37.6729430, "lon": -1.5213078 },
+    { "lat": 37.6730498, "lon": -1.5213380 },
+    { "lat": 37.6729565, "lon": -1.5218643 },
+    { "lat": 37.6726619, "lon": -1.5217810 },
+    { "lat": 37.6727552, "lon": -1.5212547 }
+  ],
+  "tags": {
+    "name": "Subestación Hinojar",
+    "power": "substation",
+    "substation": "generation",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 795373304,
+  "bounds": {
+    "minlat": 37.8404333,
+    "minlon": -1.1090599,
+    "maxlat": 37.8412191,
+    "maxlon": -1.1080286
+  },
+  "nodes": [
+    7439216983,
+    7439216982,
+    7439216981,
+    7439216980,
+    7439216979,
+    7439216978,
+    7439216983
+  ],
+  "geometry": [
+    { "lat": 37.8409056, "lon": -1.1090599 },
+    { "lat": 37.8404333, "lon": -1.1086831 },
+    { "lat": 37.8405085, "lon": -1.1084886 },
+    { "lat": 37.8405805, "lon": -1.1083786 },
+    { "lat": 37.8407478, "lon": -1.1080286 },
+    { "lat": 37.8412191, "lon": -1.1084189 },
+    { "lat": 37.8409056, "lon": -1.1090599 }
+  ],
+  "tags": {
+    "name": "Subestación Baños y Mendigo",
+    "operator": "Iberdrola Distribución Eléctrica",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "132000"
+  }
+},
+{
+  "type": "way",
+  "id": 803756270,
+  "bounds": {
+    "minlat": 37.5781946,
+    "minlon": -0.9255181,
+    "maxlat": 37.5783905,
+    "maxlon": -0.9252799
+  },
+  "nodes": [
+    7518520598,
+    7518520597,
+    7518520596,
+    7518520595,
+    7518520598
+  ],
+  "geometry": [
+    { "lat": 37.5783905, "lon": -0.9254375 },
+    { "lat": 37.5782524, "lon": -0.9255181 },
+    { "lat": 37.5781946, "lon": -0.9253605 },
+    { "lat": 37.5783327, "lon": -0.9252799 },
+    { "lat": 37.5783905, "lon": -0.9254375 }
+  ],
+  "tags": {
+    "fixme": "disused?",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 839180180,
+  "bounds": {
+    "minlat": 38.0907297,
+    "minlon": -1.7965606,
+    "maxlat": 38.0907790,
+    "maxlon": -1.7964860
+  },
+  "nodes": [
+    7830971523,
+    7830971571,
+    7830971540,
+    7872478169,
+    7872478150,
+    7830971520,
+    7830971522,
+    7830971541,
+    7830971523
+  ],
+  "geometry": [
+    { "lat": 38.0907597, "lon": -1.7964860 },
+    { "lat": 38.0907462, "lon": -1.7965123 },
+    { "lat": 38.0907297, "lon": -1.7965447 },
+    { "lat": 38.0907389, "lon": -1.7965517 },
+    { "lat": 38.0907450, "lon": -1.7965564 },
+    { "lat": 38.0907509, "lon": -1.7965606 },
+    { "lat": 38.0907656, "lon": -1.7965310 },
+    { "lat": 38.0907790, "lon": -1.7965019 },
+    { "lat": 38.0907597, "lon": -1.7964860 }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "power": "substation",
+    "substation": "transformer"
+  }
+},
+{
+  "type": "way",
+  "id": 849347004,
+  "bounds": {
+    "minlat": 37.8418196,
+    "minlon": -0.7720632,
+    "maxlat": 37.8421423,
+    "maxlon": -0.7717978
+  },
+  "nodes": [
+    7924281408,
+    7924281407,
+    7924281406,
+    7924281405,
+    7924281408
+  ],
+  "geometry": [
+    { "lat": 37.8421423, "lon": -0.7720500 },
+    { "lat": 37.8421358, "lon": -0.7717978 },
+    { "lat": 37.8418196, "lon": -0.7718109 },
+    { "lat": 37.8418261, "lon": -0.7720632 },
+    { "lat": 37.8421423, "lon": -0.7720500 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 918875226,
+  "bounds": {
+    "minlat": 38.0028329,
+    "minlon": -1.1093661,
+    "maxlat": 38.0028762,
+    "maxlon": -1.1093084
+  },
+  "nodes": [
+    8533617071,
+    8533617072,
+    8533617073,
+    8533617074,
+    8533617071
+  ],
+  "geometry": [
+    { "lat": 38.0028504, "lon": -1.1093661 },
+    { "lat": 38.0028762, "lon": -1.1093476 },
+    { "lat": 38.0028587, "lon": -1.1093084 },
+    { "lat": 38.0028329, "lon": -1.1093269 },
+    { "lat": 38.0028504, "lon": -1.1093661 }
+  ],
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 928191545,
+  "bounds": {
+    "minlat": 38.0294648,
+    "minlon": -2.2796126,
+    "maxlat": 38.0294823,
+    "maxlon": -2.2795752
+  },
+  "nodes": [
+    8610291916,
+    8610292617,
+    8610292618,
+    8610292619,
+    8610292620,
+    8610291916
+  ],
+  "geometry": [
+    { "lat": 38.0294657, "lon": -2.2796126 },
+    { "lat": 38.0294823, "lon": -2.2796120 },
+    { "lat": 38.0294814, "lon": -2.2795752 },
+    { "lat": 38.0294648, "lon": -2.2795758 },
+    { "lat": 38.0294653, "lon": -2.2795942 },
+    { "lat": 38.0294657, "lon": -2.2796126 }
+  ],
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 935493180,
+  "bounds": {
+    "minlat": 37.8536316,
+    "minlon": -1.4028423,
+    "maxlat": 37.8546133,
+    "maxlon": -1.4014234
+  },
+  "nodes": [
+    10748647655,
+    10748647654,
+    10748647653,
+    8669231311,
+    8669231312,
+    10748647652,
+    10748647651,
+    8669231314,
+    8669231313,
+    10748647655
+  ],
+  "geometry": [
+    { "lat": 37.8541611, "lon": -1.4028423 },
+    { "lat": 37.8545995, "lon": -1.4024976 },
+    { "lat": 37.8546133, "lon": -1.4024574 },
+    { "lat": 37.8541145, "lon": -1.4014234 },
+    { "lat": 37.8536316, "lon": -1.4018002 },
+    { "lat": 37.8538678, "lon": -1.4022911 },
+    { "lat": 37.8538117, "lon": -1.4023380 },
+    { "lat": 37.8539737, "lon": -1.4026719 },
+    { "lat": 37.8540499, "lon": -1.4026210 },
+    { "lat": 37.8541611, "lon": -1.4028423 }
+  ],
+  "tags": {
+    "name": "Subestación Eléctrica El Pozo",
+    "power": "substation",
+    "voltage": "132000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 1026687772,
+  "bounds": {
+    "minlat": 38.0375255,
+    "minlon": -1.0764495,
+    "maxlat": 38.0375821,
+    "maxlon": -1.0764105
+  },
+  "nodes": [
+    9465971747,
+    9465971748,
+    9465971749,
+    9465971750,
+    9465971747
+  ],
+  "geometry": [
+    { "lat": 38.0375786, "lon": -1.0764495 },
+    { "lat": 38.0375821, "lon": -1.0764210 },
+    { "lat": 38.0375290, "lon": -1.0764105 },
+    { "lat": 38.0375255, "lon": -1.0764389 },
+    { "lat": 38.0375786, "lon": -1.0764495 }
+  ],
+  "tags": {
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "operator:wikipedia": "es:Iberdrola",
+    "power": "substation",
+    "power_supply": "Transformation"
+  }
+},
+{
+  "type": "way",
+  "id": 1026687773,
+  "bounds": {
+    "minlat": 38.0374632,
+    "minlon": -1.0764367,
+    "maxlat": 38.0375197,
+    "maxlon": -1.0763977
+  },
+  "nodes": [
+    9465971751,
+    9465971752,
+    9465971753,
+    9465971754,
+    9465971751
+  ],
+  "geometry": [
+    { "lat": 38.0375162, "lon": -1.0764367 },
+    { "lat": 38.0375197, "lon": -1.0764083 },
+    { "lat": 38.0374667, "lon": -1.0763977 },
+    { "lat": 38.0374632, "lon": -1.0764262 },
+    { "lat": 38.0375162, "lon": -1.0764367 }
+  ],
+  "tags": {
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "operator:wikipedia": "es:Iberdrola",
+    "power": "substation",
+    "power_supply": "Transformation"
+  }
+},
+{
+  "type": "way",
+  "id": 1026687783,
+  "bounds": {
+    "minlat": 38.0357794,
+    "minlon": -1.0756560,
+    "maxlat": 38.0358339,
+    "maxlon": -1.0756247
+  },
+  "nodes": [
+    9465971813,
+    9465971814,
+    9465971815,
+    9465971816,
+    9465971813
+  ],
+  "geometry": [
+    { "lat": 38.0358339, "lon": -1.0756534 },
+    { "lat": 38.0358330, "lon": -1.0756247 },
+    { "lat": 38.0357794, "lon": -1.0756272 },
+    { "lat": 38.0357802, "lon": -1.0756560 },
+    { "lat": 38.0358339, "lon": -1.0756534 }
+  ],
+  "tags": {
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "operator:wikipedia": "es:Iberdrola",
+    "power": "substation",
+    "power_supply": "Transformation"
+  }
+},
+{
+  "type": "way",
+  "id": 1026696817,
+  "bounds": {
+    "minlat": 38.0359972,
+    "minlon": -1.0769408,
+    "maxlat": 38.0360517,
+    "maxlon": -1.0769095
+  },
+  "nodes": [
+    9466042323,
+    9466042324,
+    9466042325,
+    9466042326,
+    9466042323
+  ],
+  "geometry": [
+    { "lat": 38.0360517, "lon": -1.0769382 },
+    { "lat": 38.0360508, "lon": -1.0769095 },
+    { "lat": 38.0359972, "lon": -1.0769120 },
+    { "lat": 38.0359980, "lon": -1.0769408 },
+    { "lat": 38.0360517, "lon": -1.0769382 }
+  ],
+  "tags": {
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "operator:wikipedia": "es:Iberdrola",
+    "power": "substation",
+    "power_supply": "Transformation"
+  }
+},
+{
+  "type": "way",
+  "id": 1026696818,
+  "bounds": {
+    "minlat": 38.0359949,
+    "minlon": -1.0769052,
+    "maxlat": 38.0360191,
+    "maxlon": -1.0768363
+  },
+  "nodes": [
+    9466042327,
+    9466042328,
+    9466042329,
+    9466042330,
+    9466042327
+  ],
+  "geometry": [
+    { "lat": 38.0359965, "lon": -1.0769052 },
+    { "lat": 38.0360191, "lon": -1.0769044 },
+    { "lat": 38.0360176, "lon": -1.0768363 },
+    { "lat": 38.0359949, "lon": -1.0768370 },
+    { "lat": 38.0359965, "lon": -1.0769052 }
+  ],
+  "tags": {
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "operator:wikipedia": "es:Iberdrola",
+    "power": "substation",
+    "power_supply": "Transformation"
+  }
+},
+{
+  "type": "way",
+  "id": 1056639860,
+  "bounds": {
+    "minlat": 38.0854968,
+    "minlon": -1.3576638,
+    "maxlat": 38.0858177,
+    "maxlon": -1.3571971
+  },
+  "nodes": [
+    9709332225,
+    9709332226,
+    9709332227,
+    9709332228,
+    9709332225
+  ],
+  "geometry": [
+    { "lat": 38.0858177, "lon": -1.3573580 },
+    { "lat": 38.0856783, "lon": -1.3576638 },
+    { "lat": 38.0854968, "lon": -1.3575297 },
+    { "lat": 38.0856762, "lon": -1.3571971 },
+    { "lat": 38.0858177, "lon": -1.3573580 }
+  ],
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1071667764,
+  "bounds": {
+    "minlat": 38.0458177,
+    "minlon": -0.9995806,
+    "maxlat": 38.0458767,
+    "maxlon": -0.9994865
+  },
+  "nodes": [
+    9833804010,
+    9833804011,
+    9833804013,
+    9833804012,
+    9833804010
+  ],
+  "geometry": [
+    { "lat": 38.0458177, "lon": -0.9995625 },
+    { "lat": 38.0458428, "lon": -0.9995806 },
+    { "lat": 38.0458767, "lon": -0.9995047 },
+    { "lat": 38.0458516, "lon": -0.9994865 },
+    { "lat": 38.0458177, "lon": -0.9995625 }
+  ],
+  "tags": {
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1112797633,
+  "bounds": {
+    "minlat": 38.0939154,
+    "minlon": -1.7945561,
+    "maxlat": 38.0939502,
+    "maxlon": -1.7944596
+  },
+  "nodes": [
+    10181580301,
+    10181580302,
+    10181580303,
+    10181580304,
+    10181580301
+  ],
+  "geometry": [
+    { "lat": 38.0939460, "lon": -1.7945561 },
+    { "lat": 38.0939154, "lon": -1.7945525 },
+    { "lat": 38.0939210, "lon": -1.7944596 },
+    { "lat": 38.0939502, "lon": -1.7944632 },
+    { "lat": 38.0939460, "lon": -1.7945561 }
+  ],
+  "tags": {
+    "building": "yes",
+    "height": "2.5",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1119076552,
+  "bounds": {
+    "minlat": 38.0880100,
+    "minlon": -1.7971929,
+    "maxlat": 38.0880743,
+    "maxlon": -1.7970620
+  },
+  "nodes": [
+    10234827777,
+    10234827827,
+    10234827823,
+    10234827832,
+    10234827824,
+    10234827826,
+    10234827825,
+    10234827777
+  ],
+  "geometry": [
+    { "lat": 38.0880100, "lon": -1.7970721 },
+    { "lat": 38.0880204, "lon": -1.7971178 },
+    { "lat": 38.0880374, "lon": -1.7971929 },
+    { "lat": 38.0880682, "lon": -1.7971774 },
+    { "lat": 38.0880743, "lon": -1.7971743 },
+    { "lat": 38.0880597, "lon": -1.7971051 },
+    { "lat": 38.0880506, "lon": -1.7970620 },
+    { "lat": 38.0880100, "lon": -1.7970721 }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1119255856,
+  "bounds": {
+    "minlat": 38.0910616,
+    "minlon": -1.7901985,
+    "maxlat": 38.0911033,
+    "maxlon": -1.7901123
+  },
+  "nodes": [
+    10236353650,
+    10236353651,
+    10236353648,
+    10236353647,
+    10236353650
+  ],
+  "geometry": [
+    { "lat": 38.0910874, "lon": -1.7901985 },
+    { "lat": 38.0910616, "lon": -1.7901909 },
+    { "lat": 38.0910768, "lon": -1.7901123 },
+    { "lat": 38.0911033, "lon": -1.7901204 },
+    { "lat": 38.0910874, "lon": -1.7901985 }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1138990124,
+  "bounds": {
+    "minlat": 38.0988480,
+    "minlon": -1.2346932,
+    "maxlat": 38.0989130,
+    "maxlon": -1.2346149
+  },
+  "nodes": [
+    10616480875,
+    10616480874,
+    10616480873,
+    10616480872,
+    10616480875
+  ],
+  "geometry": [
+    { "lat": 38.0989130, "lon": -1.2346392 },
+    { "lat": 38.0988961, "lon": -1.2346149 },
+    { "lat": 38.0988480, "lon": -1.2346689 },
+    { "lat": 38.0988649, "lon": -1.2346932 },
+    { "lat": 38.0989130, "lon": -1.2346392 }
+  ],
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1138990125,
+  "bounds": {
+    "minlat": 38.0963704,
+    "minlon": -1.2346597,
+    "maxlat": 38.0964300,
+    "maxlon": -1.2345855
+  },
+  "nodes": [
+    10616480879,
+    10616480878,
+    10616480877,
+    10616480876,
+    10616480879
+  ],
+  "geometry": [
+    { "lat": 38.0964145, "lon": -1.2346597 },
+    { "lat": 38.0964300, "lon": -1.2346392 },
+    { "lat": 38.0963858, "lon": -1.2345855 },
+    { "lat": 38.0963704, "lon": -1.2346061 },
+    { "lat": 38.0964145, "lon": -1.2346597 }
+  ],
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1138990126,
+  "bounds": {
+    "minlat": 38.0915183,
+    "minlon": -1.2381519,
+    "maxlat": 38.0915834,
+    "maxlon": -1.2381112
+  },
+  "nodes": [
+    10616480883,
+    10616480882,
+    10616480881,
+    10616480880,
+    10616480883
+  ],
+  "geometry": [
+    { "lat": 38.0915834, "lon": -1.2381481 },
+    { "lat": 38.0915820, "lon": -1.2381112 },
+    { "lat": 38.0915183, "lon": -1.2381149 },
+    { "lat": 38.0915197, "lon": -1.2381519 },
+    { "lat": 38.0915834, "lon": -1.2381481 }
+  ],
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1138990127,
+  "bounds": {
+    "minlat": 38.0926004,
+    "minlon": -1.2395483,
+    "maxlat": 38.0926666,
+    "maxlon": -1.2394957
+  },
+  "nodes": [
+    10616480887,
+    10616480886,
+    10616480885,
+    10616480884,
+    10616480887
+  ],
+  "geometry": [
+    { "lat": 38.0926032, "lon": -1.2395483 },
+    { "lat": 38.0926666, "lon": -1.2395420 },
+    { "lat": 38.0926637, "lon": -1.2394957 },
+    { "lat": 38.0926004, "lon": -1.2395020 },
+    { "lat": 38.0926032, "lon": -1.2395483 }
+  ],
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1155120198,
+  "bounds": {
+    "minlat": 38.0996530,
+    "minlon": -1.7979655,
+    "maxlat": 38.0997251,
+    "maxlon": -1.7978708
+  },
+  "nodes": [
+    10742424060,
+    10742424061,
+    10742424062,
+    10742424063,
+    10742424060
+  ],
+  "geometry": [
+    { "lat": 38.0996735, "lon": -1.7979655 },
+    { "lat": 38.0996530, "lon": -1.7978950 },
+    { "lat": 38.0997046, "lon": -1.7978708 },
+    { "lat": 38.0997251, "lon": -1.7979413 },
+    { "lat": 38.0996735, "lon": -1.7979655 }
+  ],
+  "tags": {
+    "building": "yes",
+    "power": "substation",
+    "substation": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1259506869,
+  "bounds": {
+    "minlat": 37.5764225,
+    "minlon": -0.9526226,
+    "maxlat": 37.5767756,
+    "maxlon": -0.9522424
+  },
+  "nodes": [
+    11709239814,
+    11709239815,
+    11709239816,
+    11709239817,
+    11709239814
+  ],
+  "geometry": [
+    { "lat": 37.5767756, "lon": -0.9524869 },
+    { "lat": 37.5767007, "lon": -0.9522424 },
+    { "lat": 37.5764225, "lon": -0.9523781 },
+    { "lat": 37.5764975, "lon": -0.9526226 },
+    { "lat": 37.5767756, "lon": -0.9524869 }
+  ],
+  "tags": {
+    "name": "SET Enfersa",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "66000"
+  }
+},
+{
+  "type": "way",
+  "id": 1419915516,
+  "bounds": {
+    "minlat": 38.3039794,
+    "minlon": -1.8918363,
+    "maxlat": 38.3046297,
+    "maxlon": -1.8909842
+  },
+  "nodes": [
+    13047830256,
+    13047830257,
+    13047830258,
+    13047830259,
+    13047830260,
+    13047830256
+  ],
+  "geometry": [
+    { "lat": 38.3041820, "lon": -1.8918363 },
+    { "lat": 38.3039794, "lon": -1.8912173 },
+    { "lat": 38.3044265, "lon": -1.8909842 },
+    { "lat": 38.3046297, "lon": -1.8916035 },
+    { "lat": 38.3045106, "lon": -1.8916645 },
+    { "lat": 38.3041820, "lon": -1.8918363 }
+  ],
+  "tags": {
+    "name": "Subestación Eléctrica de Socovos",
+    "operator": "Iberdrola",
+    "operator:wikidata": "Q1437502",
+    "power": "substation",
+    "voltage": "132000"
+  }
+}
+
+  ]
+}
